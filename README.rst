@@ -136,7 +136,7 @@ Here is an example script :
    :target: https://pypi.org/project/pytfa/
 
 .. |license| image:: http://img.shields.io/badge/license-APACHE2-blue.svg
-   :target: https://github.com/EPFL-LCSB/pytfa/blob/master/LICENSE.txt
+   :target: https://github.com/vpandey-om/mineapy/blob/main/LICENSE
 
 License
 ========
