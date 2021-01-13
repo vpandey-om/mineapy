@@ -33,16 +33,17 @@ supported.
 Setup
 =====
 
-Install `conda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html>`and create an environment using python 3.7.
+
+You will need to have install `conda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/>`_ and create an environment using python 3.7:
+
 .. code:: bash
 
     conda create -n py37 python=3.7
     conda activate py37
 
-    # inside conda enviroment we can install
+    # inside the py37 environment we can download from github and install.
     git clone https://github.com/vpandey-om/mineapy.git mineapy
     pip install -e .
-
 
 
 Quick start
