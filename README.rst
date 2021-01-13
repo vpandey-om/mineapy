@@ -34,7 +34,7 @@ Setup
 =====
 
 
-You will need to have install `conda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/>`_ and create an environment using python 3.7:
+You will need to install `conda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/>`_ and create an environment using python 3.7:
 
 .. code:: bash
 
