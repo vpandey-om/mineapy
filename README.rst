@@ -93,7 +93,33 @@ Python.
 Thermodynamic databases are stored in ``.thermodb`` files and can be
 easily loaded with ``pytfa.io.load_thermoDB``.
 
+Example script
+--------------
 
+Here is an example script :
+
+.. code:: python
+
+    import pytfa
+    from pytfa.io import import_matlab_model, load_thermoDB
+
+
+    cobra_model = import_matlab_model('../models/small_yeast.mat')
+
+    thermo_data = load_thermoDB('../data/thermo_data.thermodb')
+
+    mytfa = pytfa.ThermoModel(thermo_data, cobra_model)
+    mytfa.solver = 'optlang-cplex'
+
+    ## TFA conversion
+    mytfa.prepare()
+    mytfa.convert()
+
+    ## Info on the model
+    mytfa.print_info()
+
+    ## Optimality
+    tfa_solution = mytfa.optimize()
 
 Example script
 --------------
