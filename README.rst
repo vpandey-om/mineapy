@@ -1,6 +1,6 @@
 MiNEApy
 =====
-|PyPI| |Documentation Status| |Build Status| |Codecov| |Codacy branch grade| |license|
+|PyPI|  |license|
 
 This software can be used to perform minimal network enrichment analysis.
 
@@ -134,19 +134,9 @@ Here is an example script :
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/pytfa.svg
    :target: https://pypi.org/project/pytfa/
-.. |Documentation Status| image:: https://readthedocs.org/projects/pytfa/badge/?version=latest
-   :target: http://pytfa.readthedocs.io/en/latest/?badge=latest
+
 .. |license| image:: http://img.shields.io/badge/license-APACHE2-blue.svg
    :target: https://github.com/EPFL-LCSB/pytfa/blob/master/LICENSE.txt
-.. |Build Status| image:: https://travis-ci.com/EPFL-LCSB/pytfa.svg?branch=master
-   :target: https://travis-ci.com/EPFL-LCSB/pytfa
-.. |Codecov| image:: https://img.shields.io/codecov/c/github/EPFL-LCSB/pytfa.svg
-   :target: https://codecov.io/gh/EPFL-LCSB/pytfa
-.. |Codacy branch grade| image:: https://img.shields.io/codacy/grade/d8fd67ee134d46a69115c9b39c19be26/master.svg
-   :target: https://www.codacy.com/app/realLCSB/pytfa
-.. |Code climate| image:: https://img.shields.io/codeclimate/github/EPFL-LCSB/pytfa.svg
-   :target: https://codeclimate.com/github/EPFL-LCSB/pytfa
-
 
 License
 ========
