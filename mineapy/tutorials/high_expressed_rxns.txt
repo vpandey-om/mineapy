@@ -1,0 +1,2 @@
+	Metabolic task id	Alternative networks	Metabolic task desciption	high_expressed rxns(%)	low_expressed rxns(%) 	GPR rxns	total # of rxns	p_values	fdr_bh	high_expressed rxns	low_expressed rxns	rxns in a min
+0	pyr_c	alternative_1	Pyruvate	11.76470588235294	0.0	17	23	0	0.0	CYTBDpp,TPI		O2tpp,H2Otpp,Htex,ATPS4rpp,GLCNt2rpp,O2tex,EDA,CYTBO3_4pp,H2Otex,MGSA,TPI,CYTBDpp,GLCtexi,GNK,LDH_D2,EDD,GLCDpp

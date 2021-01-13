@@ -1,0 +1,1778 @@
+2021-01-12 14:58:52,655 - ME modelNone - INFO - # Model initialized 
+2021-01-12 14:58:52,656 - ME modelNone - INFO - # Model conversion starting...
+2021-01-12 14:58:52,656 - ME modelNone - DEBUG - Added variable: FU_PFK
+2021-01-12 14:58:52,657 - ME modelNone - DEBUG - Added variable: BU_PFK
+2021-01-12 14:58:52,657 - ME modelNone - DEBUG - Added constraint: SU_PFK
+2021-01-12 14:58:52,659 - ME modelNone - DEBUG - Added constraint: UF_PFK
+2021-01-12 14:58:52,660 - ME modelNone - DEBUG - Added constraint: UR_PFK
+2021-01-12 14:58:52,661 - ME modelNone - DEBUG - Added variable: FU_PFL
+2021-01-12 14:58:52,661 - ME modelNone - DEBUG - Added variable: BU_PFL
+2021-01-12 14:58:52,662 - ME modelNone - DEBUG - Added constraint: SU_PFL
+2021-01-12 14:58:52,662 - ME modelNone - DEBUG - Added constraint: UF_PFL
+2021-01-12 14:58:52,664 - ME modelNone - DEBUG - Added constraint: UR_PFL
+2021-01-12 14:58:52,664 - ME modelNone - DEBUG - Added variable: FU_PGI
+2021-01-12 14:58:52,665 - ME modelNone - DEBUG - Added variable: BU_PGI
+2021-01-12 14:58:52,665 - ME modelNone - DEBUG - Added constraint: SU_PGI
+2021-01-12 14:58:52,666 - ME modelNone - DEBUG - Added constraint: UF_PGI
+2021-01-12 14:58:52,667 - ME modelNone - DEBUG - Added constraint: UR_PGI
+2021-01-12 14:58:52,668 - ME modelNone - DEBUG - Added variable: FU_PGK
+2021-01-12 14:58:52,668 - ME modelNone - DEBUG - Added variable: BU_PGK
+2021-01-12 14:58:52,669 - ME modelNone - DEBUG - Added constraint: SU_PGK
+2021-01-12 14:58:52,670 - ME modelNone - DEBUG - Added constraint: UF_PGK
+2021-01-12 14:58:52,671 - ME modelNone - DEBUG - Added constraint: UR_PGK
+2021-01-12 14:58:52,671 - ME modelNone - DEBUG - Added variable: FU_PGL
+2021-01-12 14:58:52,671 - ME modelNone - DEBUG - Added variable: BU_PGL
+2021-01-12 14:58:52,672 - ME modelNone - DEBUG - Added constraint: SU_PGL
+2021-01-12 14:58:52,673 - ME modelNone - DEBUG - Added constraint: UF_PGL
+2021-01-12 14:58:52,674 - ME modelNone - DEBUG - Added constraint: UR_PGL
+2021-01-12 14:58:52,674 - ME modelNone - DEBUG - Added variable: FU_ACALD
+2021-01-12 14:58:52,675 - ME modelNone - DEBUG - Added variable: BU_ACALD
+2021-01-12 14:58:52,675 - ME modelNone - DEBUG - Added constraint: SU_ACALD
+2021-01-12 14:58:52,676 - ME modelNone - DEBUG - Added constraint: UF_ACALD
+2021-01-12 14:58:52,677 - ME modelNone - DEBUG - Added constraint: UR_ACALD
+2021-01-12 14:58:52,678 - ME modelNone - DEBUG - Added variable: FU_AKGt2r
+2021-01-12 14:58:52,679 - ME modelNone - DEBUG - Added variable: BU_AKGt2r
+2021-01-12 14:58:52,679 - ME modelNone - DEBUG - Added constraint: SU_AKGt2r
+2021-01-12 14:58:52,680 - ME modelNone - DEBUG - Added constraint: UF_AKGt2r
+2021-01-12 14:58:52,681 - ME modelNone - DEBUG - Added constraint: UR_AKGt2r
+2021-01-12 14:58:52,682 - ME modelNone - DEBUG - Added variable: FU_PGM
+2021-01-12 14:58:52,682 - ME modelNone - DEBUG - Added variable: BU_PGM
+2021-01-12 14:58:52,683 - ME modelNone - DEBUG - Added constraint: SU_PGM
+2021-01-12 14:58:52,684 - ME modelNone - DEBUG - Added constraint: UF_PGM
+2021-01-12 14:58:52,685 - ME modelNone - DEBUG - Added constraint: UR_PGM
+2021-01-12 14:58:52,685 - ME modelNone - DEBUG - Added variable: FU_PIt2r
+2021-01-12 14:58:52,686 - ME modelNone - DEBUG - Added variable: BU_PIt2r
+2021-01-12 14:58:52,686 - ME modelNone - DEBUG - Added constraint: SU_PIt2r
+2021-01-12 14:58:52,687 - ME modelNone - DEBUG - Added constraint: UF_PIt2r
+2021-01-12 14:58:52,688 - ME modelNone - DEBUG - Added constraint: UR_PIt2r
+2021-01-12 14:58:52,689 - ME modelNone - DEBUG - Added variable: FU_ALCD2x
+2021-01-12 14:58:52,689 - ME modelNone - DEBUG - Added variable: BU_ALCD2x
+2021-01-12 14:58:52,690 - ME modelNone - DEBUG - Added constraint: SU_ALCD2x
+2021-01-12 14:58:52,691 - ME modelNone - DEBUG - Added constraint: UF_ALCD2x
+2021-01-12 14:58:52,692 - ME modelNone - DEBUG - Added constraint: UR_ALCD2x
+2021-01-12 14:58:52,693 - ME modelNone - DEBUG - Added variable: FU_ACALDt
+2021-01-12 14:58:52,694 - ME modelNone - DEBUG - Added variable: BU_ACALDt
+2021-01-12 14:58:52,695 - ME modelNone - DEBUG - Added constraint: SU_ACALDt
+2021-01-12 14:58:52,696 - ME modelNone - DEBUG - Added constraint: UF_ACALDt
+2021-01-12 14:58:52,697 - ME modelNone - DEBUG - Added constraint: UR_ACALDt
+2021-01-12 14:58:52,698 - ME modelNone - DEBUG - Added variable: FU_ACKr
+2021-01-12 14:58:52,699 - ME modelNone - DEBUG - Added variable: BU_ACKr
+2021-01-12 14:58:52,699 - ME modelNone - DEBUG - Added constraint: SU_ACKr
+2021-01-12 14:58:52,700 - ME modelNone - DEBUG - Added constraint: UF_ACKr
+2021-01-12 14:58:52,701 - ME modelNone - DEBUG - Added constraint: UR_ACKr
+2021-01-12 14:58:52,702 - ME modelNone - DEBUG - Added variable: FU_PPC
+2021-01-12 14:58:52,703 - ME modelNone - DEBUG - Added variable: BU_PPC
+2021-01-12 14:58:52,703 - ME modelNone - DEBUG - Added constraint: SU_PPC
+2021-01-12 14:58:52,705 - ME modelNone - DEBUG - Added constraint: UF_PPC
+2021-01-12 14:58:52,706 - ME modelNone - DEBUG - Added constraint: UR_PPC
+2021-01-12 14:58:52,707 - ME modelNone - DEBUG - Added variable: FU_ACONTa
+2021-01-12 14:58:52,707 - ME modelNone - DEBUG - Added variable: BU_ACONTa
+2021-01-12 14:58:52,708 - ME modelNone - DEBUG - Added constraint: SU_ACONTa
+2021-01-12 14:58:52,709 - ME modelNone - DEBUG - Added constraint: UF_ACONTa
+2021-01-12 14:58:52,710 - ME modelNone - DEBUG - Added constraint: UR_ACONTa
+2021-01-12 14:58:52,710 - ME modelNone - DEBUG - Added variable: FU_ACONTb
+2021-01-12 14:58:52,711 - ME modelNone - DEBUG - Added variable: BU_ACONTb
+2021-01-12 14:58:52,711 - ME modelNone - DEBUG - Added constraint: SU_ACONTb
+2021-01-12 14:58:52,712 - ME modelNone - DEBUG - Added constraint: UF_ACONTb
+2021-01-12 14:58:52,713 - ME modelNone - DEBUG - Added constraint: UR_ACONTb
+2021-01-12 14:58:52,714 - ME modelNone - DEBUG - Added variable: FU_ATPM
+2021-01-12 14:58:52,714 - ME modelNone - DEBUG - Added variable: BU_ATPM
+2021-01-12 14:58:52,715 - ME modelNone - DEBUG - Added constraint: SU_ATPM
+2021-01-12 14:58:52,716 - ME modelNone - DEBUG - Added constraint: UF_ATPM
+2021-01-12 14:58:52,717 - ME modelNone - DEBUG - Added constraint: UR_ATPM
+2021-01-12 14:58:52,718 - ME modelNone - DEBUG - Added variable: FU_PPCK
+2021-01-12 14:58:52,718 - ME modelNone - DEBUG - Added variable: BU_PPCK
+2021-01-12 14:58:52,719 - ME modelNone - DEBUG - Added constraint: SU_PPCK
+2021-01-12 14:58:52,720 - ME modelNone - DEBUG - Added constraint: UF_PPCK
+2021-01-12 14:58:52,720 - ME modelNone - DEBUG - Added constraint: UR_PPCK
+2021-01-12 14:58:52,721 - ME modelNone - DEBUG - Added variable: FU_ACt2r
+2021-01-12 14:58:52,722 - ME modelNone - DEBUG - Added variable: BU_ACt2r
+2021-01-12 14:58:52,722 - ME modelNone - DEBUG - Added constraint: SU_ACt2r
+2021-01-12 14:58:52,723 - ME modelNone - DEBUG - Added constraint: UF_ACt2r
+2021-01-12 14:58:52,724 - ME modelNone - DEBUG - Added constraint: UR_ACt2r
+2021-01-12 14:58:52,725 - ME modelNone - DEBUG - Added variable: FU_PPS
+2021-01-12 14:58:52,726 - ME modelNone - DEBUG - Added variable: BU_PPS
+2021-01-12 14:58:52,726 - ME modelNone - DEBUG - Added constraint: SU_PPS
+2021-01-12 14:58:52,727 - ME modelNone - DEBUG - Added constraint: UF_PPS
+2021-01-12 14:58:52,728 - ME modelNone - DEBUG - Added constraint: UR_PPS
+2021-01-12 14:58:52,729 - ME modelNone - DEBUG - Added variable: FU_ADK1
+2021-01-12 14:58:52,729 - ME modelNone - DEBUG - Added variable: BU_ADK1
+2021-01-12 14:58:52,730 - ME modelNone - DEBUG - Added constraint: SU_ADK1
+2021-01-12 14:58:52,731 - ME modelNone - DEBUG - Added constraint: UF_ADK1
+2021-01-12 14:58:52,732 - ME modelNone - DEBUG - Added constraint: UR_ADK1
+2021-01-12 14:58:52,732 - ME modelNone - DEBUG - Added variable: FU_AKGDH
+2021-01-12 14:58:52,733 - ME modelNone - DEBUG - Added variable: BU_AKGDH
+2021-01-12 14:58:52,733 - ME modelNone - DEBUG - Added constraint: SU_AKGDH
+2021-01-12 14:58:52,734 - ME modelNone - DEBUG - Added constraint: UF_AKGDH
+2021-01-12 14:58:52,735 - ME modelNone - DEBUG - Added constraint: UR_AKGDH
+2021-01-12 14:58:52,736 - ME modelNone - DEBUG - Added variable: FU_ATPS4r
+2021-01-12 14:58:52,736 - ME modelNone - DEBUG - Added variable: BU_ATPS4r
+2021-01-12 14:58:52,736 - ME modelNone - DEBUG - Added constraint: SU_ATPS4r
+2021-01-12 14:58:52,737 - ME modelNone - DEBUG - Added constraint: UF_ATPS4r
+2021-01-12 14:58:52,738 - ME modelNone - DEBUG - Added constraint: UR_ATPS4r
+2021-01-12 14:58:52,738 - ME modelNone - DEBUG - Added variable: FU_PTAr
+2021-01-12 14:58:52,739 - ME modelNone - DEBUG - Added variable: BU_PTAr
+2021-01-12 14:58:52,739 - ME modelNone - DEBUG - Added constraint: SU_PTAr
+2021-01-12 14:58:52,740 - ME modelNone - DEBUG - Added constraint: UF_PTAr
+2021-01-12 14:58:52,741 - ME modelNone - DEBUG - Added constraint: UR_PTAr
+2021-01-12 14:58:52,742 - ME modelNone - DEBUG - Added variable: FU_PYK
+2021-01-12 14:58:52,742 - ME modelNone - DEBUG - Added variable: BU_PYK
+2021-01-12 14:58:52,743 - ME modelNone - DEBUG - Added constraint: SU_PYK
+2021-01-12 14:58:52,744 - ME modelNone - DEBUG - Added constraint: UF_PYK
+2021-01-12 14:58:52,745 - ME modelNone - DEBUG - Added constraint: UR_PYK
+2021-01-12 14:58:52,745 - ME modelNone - DEBUG - Added variable: FU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:52,746 - ME modelNone - DEBUG - Added variable: BU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:52,746 - ME modelNone - DEBUG - Added constraint: SU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:52,747 - ME modelNone - DEBUG - Added constraint: UF_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:52,748 - ME modelNone - DEBUG - Added constraint: UR_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:52,749 - ME modelNone - DEBUG - Added variable: FU_PYRt2
+2021-01-12 14:58:52,749 - ME modelNone - DEBUG - Added variable: BU_PYRt2
+2021-01-12 14:58:52,750 - ME modelNone - DEBUG - Added constraint: SU_PYRt2
+2021-01-12 14:58:52,751 - ME modelNone - DEBUG - Added constraint: UF_PYRt2
+2021-01-12 14:58:52,752 - ME modelNone - DEBUG - Added constraint: UR_PYRt2
+2021-01-12 14:58:52,753 - ME modelNone - DEBUG - Added variable: FU_CO2t
+2021-01-12 14:58:52,753 - ME modelNone - DEBUG - Added variable: BU_CO2t
+2021-01-12 14:58:52,754 - ME modelNone - DEBUG - Added constraint: SU_CO2t
+2021-01-12 14:58:52,754 - ME modelNone - DEBUG - Added constraint: UF_CO2t
+2021-01-12 14:58:52,755 - ME modelNone - DEBUG - Added constraint: UR_CO2t
+2021-01-12 14:58:52,756 - ME modelNone - DEBUG - Added variable: FU_RPE
+2021-01-12 14:58:52,756 - ME modelNone - DEBUG - Added variable: BU_RPE
+2021-01-12 14:58:52,757 - ME modelNone - DEBUG - Added constraint: SU_RPE
+2021-01-12 14:58:52,758 - ME modelNone - DEBUG - Added constraint: UF_RPE
+2021-01-12 14:58:52,759 - ME modelNone - DEBUG - Added constraint: UR_RPE
+2021-01-12 14:58:52,760 - ME modelNone - DEBUG - Added variable: FU_CS
+2021-01-12 14:58:52,760 - ME modelNone - DEBUG - Added variable: BU_CS
+2021-01-12 14:58:52,761 - ME modelNone - DEBUG - Added constraint: SU_CS
+2021-01-12 14:58:52,761 - ME modelNone - DEBUG - Added constraint: UF_CS
+2021-01-12 14:58:52,762 - ME modelNone - DEBUG - Added constraint: UR_CS
+2021-01-12 14:58:52,763 - ME modelNone - DEBUG - Added variable: FU_RPI
+2021-01-12 14:58:52,764 - ME modelNone - DEBUG - Added variable: BU_RPI
+2021-01-12 14:58:52,764 - ME modelNone - DEBUG - Added constraint: SU_RPI
+2021-01-12 14:58:52,765 - ME modelNone - DEBUG - Added constraint: UF_RPI
+2021-01-12 14:58:52,766 - ME modelNone - DEBUG - Added constraint: UR_RPI
+2021-01-12 14:58:52,767 - ME modelNone - DEBUG - Added variable: FU_SUCCt2_2
+2021-01-12 14:58:52,767 - ME modelNone - DEBUG - Added variable: BU_SUCCt2_2
+2021-01-12 14:58:52,767 - ME modelNone - DEBUG - Added constraint: SU_SUCCt2_2
+2021-01-12 14:58:52,768 - ME modelNone - DEBUG - Added constraint: UF_SUCCt2_2
+2021-01-12 14:58:52,769 - ME modelNone - DEBUG - Added constraint: UR_SUCCt2_2
+2021-01-12 14:58:52,770 - ME modelNone - DEBUG - Added variable: FU_CYTBD
+2021-01-12 14:58:52,770 - ME modelNone - DEBUG - Added variable: BU_CYTBD
+2021-01-12 14:58:52,771 - ME modelNone - DEBUG - Added constraint: SU_CYTBD
+2021-01-12 14:58:52,772 - ME modelNone - DEBUG - Added constraint: UF_CYTBD
+2021-01-12 14:58:52,773 - ME modelNone - DEBUG - Added constraint: UR_CYTBD
+2021-01-12 14:58:52,773 - ME modelNone - DEBUG - Added variable: FU_D_LACt2
+2021-01-12 14:58:52,774 - ME modelNone - DEBUG - Added variable: BU_D_LACt2
+2021-01-12 14:58:52,774 - ME modelNone - DEBUG - Added constraint: SU_D_LACt2
+2021-01-12 14:58:52,775 - ME modelNone - DEBUG - Added constraint: UF_D_LACt2
+2021-01-12 14:58:52,776 - ME modelNone - DEBUG - Added constraint: UR_D_LACt2
+2021-01-12 14:58:52,777 - ME modelNone - DEBUG - Added variable: FU_ENO
+2021-01-12 14:58:52,778 - ME modelNone - DEBUG - Added variable: BU_ENO
+2021-01-12 14:58:52,778 - ME modelNone - DEBUG - Added constraint: SU_ENO
+2021-01-12 14:58:52,779 - ME modelNone - DEBUG - Added constraint: UF_ENO
+2021-01-12 14:58:52,780 - ME modelNone - DEBUG - Added constraint: UR_ENO
+2021-01-12 14:58:52,781 - ME modelNone - DEBUG - Added variable: FU_SUCCt3
+2021-01-12 14:58:52,781 - ME modelNone - DEBUG - Added variable: BU_SUCCt3
+2021-01-12 14:58:52,782 - ME modelNone - DEBUG - Added constraint: SU_SUCCt3
+2021-01-12 14:58:52,783 - ME modelNone - DEBUG - Added constraint: UF_SUCCt3
+2021-01-12 14:58:52,783 - ME modelNone - DEBUG - Added constraint: UR_SUCCt3
+2021-01-12 14:58:52,784 - ME modelNone - DEBUG - Added variable: FU_ETOHt2r
+2021-01-12 14:58:52,785 - ME modelNone - DEBUG - Added variable: BU_ETOHt2r
+2021-01-12 14:58:52,785 - ME modelNone - DEBUG - Added constraint: SU_ETOHt2r
+2021-01-12 14:58:52,786 - ME modelNone - DEBUG - Added constraint: UF_ETOHt2r
+2021-01-12 14:58:52,787 - ME modelNone - DEBUG - Added constraint: UR_ETOHt2r
+2021-01-12 14:58:52,788 - ME modelNone - DEBUG - Added variable: FU_SUCDi
+2021-01-12 14:58:52,788 - ME modelNone - DEBUG - Added variable: BU_SUCDi
+2021-01-12 14:58:52,789 - ME modelNone - DEBUG - Added constraint: SU_SUCDi
+2021-01-12 14:58:52,790 - ME modelNone - DEBUG - Added constraint: UF_SUCDi
+2021-01-12 14:58:52,791 - ME modelNone - DEBUG - Added constraint: UR_SUCDi
+2021-01-12 14:58:52,791 - ME modelNone - DEBUG - Added variable: FU_SUCOAS
+2021-01-12 14:58:52,792 - ME modelNone - DEBUG - Added variable: BU_SUCOAS
+2021-01-12 14:58:52,792 - ME modelNone - DEBUG - Added constraint: SU_SUCOAS
+2021-01-12 14:58:52,793 - ME modelNone - DEBUG - Added constraint: UF_SUCOAS
+2021-01-12 14:58:52,794 - ME modelNone - DEBUG - Added constraint: UR_SUCOAS
+2021-01-12 14:58:52,795 - ME modelNone - DEBUG - Added variable: FU_TALA
+2021-01-12 14:58:52,795 - ME modelNone - DEBUG - Added variable: BU_TALA
+2021-01-12 14:58:52,796 - ME modelNone - DEBUG - Added constraint: SU_TALA
+2021-01-12 14:58:52,797 - ME modelNone - DEBUG - Added constraint: UF_TALA
+2021-01-12 14:58:52,798 - ME modelNone - DEBUG - Added constraint: UR_TALA
+2021-01-12 14:58:52,798 - ME modelNone - DEBUG - Added variable: FU_THD2
+2021-01-12 14:58:52,799 - ME modelNone - DEBUG - Added variable: BU_THD2
+2021-01-12 14:58:52,799 - ME modelNone - DEBUG - Added constraint: SU_THD2
+2021-01-12 14:58:52,800 - ME modelNone - DEBUG - Added constraint: UF_THD2
+2021-01-12 14:58:52,801 - ME modelNone - DEBUG - Added constraint: UR_THD2
+2021-01-12 14:58:52,802 - ME modelNone - DEBUG - Added variable: FU_TKT1
+2021-01-12 14:58:52,803 - ME modelNone - DEBUG - Added variable: BU_TKT1
+2021-01-12 14:58:52,803 - ME modelNone - DEBUG - Added constraint: SU_TKT1
+2021-01-12 14:58:52,804 - ME modelNone - DEBUG - Added constraint: UF_TKT1
+2021-01-12 14:58:52,805 - ME modelNone - DEBUG - Added constraint: UR_TKT1
+2021-01-12 14:58:52,806 - ME modelNone - DEBUG - Added variable: FU_TKT2
+2021-01-12 14:58:52,806 - ME modelNone - DEBUG - Added variable: BU_TKT2
+2021-01-12 14:58:52,807 - ME modelNone - DEBUG - Added constraint: SU_TKT2
+2021-01-12 14:58:52,808 - ME modelNone - DEBUG - Added constraint: UF_TKT2
+2021-01-12 14:58:52,809 - ME modelNone - DEBUG - Added constraint: UR_TKT2
+2021-01-12 14:58:52,810 - ME modelNone - DEBUG - Added variable: FU_TPI
+2021-01-12 14:58:52,810 - ME modelNone - DEBUG - Added variable: BU_TPI
+2021-01-12 14:58:52,811 - ME modelNone - DEBUG - Added constraint: SU_TPI
+2021-01-12 14:58:52,811 - ME modelNone - DEBUG - Added constraint: UF_TPI
+2021-01-12 14:58:52,812 - ME modelNone - DEBUG - Added constraint: UR_TPI
+2021-01-12 14:58:52,812 - ME modelNone - DEBUG - Added variable: FU_EX_ac_e
+2021-01-12 14:58:52,813 - ME modelNone - DEBUG - Added variable: BU_EX_ac_e
+2021-01-12 14:58:52,813 - ME modelNone - DEBUG - Added constraint: SU_EX_ac_e
+2021-01-12 14:58:52,814 - ME modelNone - DEBUG - Added constraint: UF_EX_ac_e
+2021-01-12 14:58:52,815 - ME modelNone - DEBUG - Added constraint: UR_EX_ac_e
+2021-01-12 14:58:52,816 - ME modelNone - DEBUG - Added variable: FU_EX_acald_e
+2021-01-12 14:58:52,816 - ME modelNone - DEBUG - Added variable: BU_EX_acald_e
+2021-01-12 14:58:52,817 - ME modelNone - DEBUG - Added constraint: SU_EX_acald_e
+2021-01-12 14:58:52,818 - ME modelNone - DEBUG - Added constraint: UF_EX_acald_e
+2021-01-12 14:58:52,819 - ME modelNone - DEBUG - Added constraint: UR_EX_acald_e
+2021-01-12 14:58:52,819 - ME modelNone - DEBUG - Added variable: FU_EX_akg_e
+2021-01-12 14:58:52,820 - ME modelNone - DEBUG - Added variable: BU_EX_akg_e
+2021-01-12 14:58:52,820 - ME modelNone - DEBUG - Added constraint: SU_EX_akg_e
+2021-01-12 14:58:52,821 - ME modelNone - DEBUG - Added constraint: UF_EX_akg_e
+2021-01-12 14:58:52,822 - ME modelNone - DEBUG - Added constraint: UR_EX_akg_e
+2021-01-12 14:58:52,822 - ME modelNone - DEBUG - Added variable: FU_EX_co2_e
+2021-01-12 14:58:52,823 - ME modelNone - DEBUG - Added variable: BU_EX_co2_e
+2021-01-12 14:58:52,823 - ME modelNone - DEBUG - Added constraint: SU_EX_co2_e
+2021-01-12 14:58:52,824 - ME modelNone - DEBUG - Added constraint: UF_EX_co2_e
+2021-01-12 14:58:52,825 - ME modelNone - DEBUG - Added constraint: UR_EX_co2_e
+2021-01-12 14:58:52,826 - ME modelNone - DEBUG - Added variable: FU_EX_etoh_e
+2021-01-12 14:58:52,826 - ME modelNone - DEBUG - Added variable: BU_EX_etoh_e
+2021-01-12 14:58:52,827 - ME modelNone - DEBUG - Added constraint: SU_EX_etoh_e
+2021-01-12 14:58:52,827 - ME modelNone - DEBUG - Added constraint: UF_EX_etoh_e
+2021-01-12 14:58:52,828 - ME modelNone - DEBUG - Added constraint: UR_EX_etoh_e
+2021-01-12 14:58:52,829 - ME modelNone - DEBUG - Added variable: FU_EX_for_e
+2021-01-12 14:58:52,829 - ME modelNone - DEBUG - Added variable: BU_EX_for_e
+2021-01-12 14:58:52,830 - ME modelNone - DEBUG - Added constraint: SU_EX_for_e
+2021-01-12 14:58:52,830 - ME modelNone - DEBUG - Added constraint: UF_EX_for_e
+2021-01-12 14:58:52,831 - ME modelNone - DEBUG - Added constraint: UR_EX_for_e
+2021-01-12 14:58:52,832 - ME modelNone - DEBUG - Added variable: FU_EX_fru_e
+2021-01-12 14:58:52,832 - ME modelNone - DEBUG - Added variable: BU_EX_fru_e
+2021-01-12 14:58:52,832 - ME modelNone - DEBUG - Added constraint: SU_EX_fru_e
+2021-01-12 14:58:52,833 - ME modelNone - DEBUG - Added constraint: UF_EX_fru_e
+2021-01-12 14:58:52,834 - ME modelNone - DEBUG - Added constraint: UR_EX_fru_e
+2021-01-12 14:58:52,835 - ME modelNone - DEBUG - Added variable: FU_EX_fum_e
+2021-01-12 14:58:52,836 - ME modelNone - DEBUG - Added variable: BU_EX_fum_e
+2021-01-12 14:58:52,836 - ME modelNone - DEBUG - Added constraint: SU_EX_fum_e
+2021-01-12 14:58:52,837 - ME modelNone - DEBUG - Added constraint: UF_EX_fum_e
+2021-01-12 14:58:52,838 - ME modelNone - DEBUG - Added constraint: UR_EX_fum_e
+2021-01-12 14:58:52,839 - ME modelNone - DEBUG - Added variable: FU_EX_glc__D_e
+2021-01-12 14:58:52,840 - ME modelNone - DEBUG - Added variable: BU_EX_glc__D_e
+2021-01-12 14:58:52,840 - ME modelNone - DEBUG - Added constraint: SU_EX_glc__D_e
+2021-01-12 14:58:52,841 - ME modelNone - DEBUG - Added constraint: UF_EX_glc__D_e
+2021-01-12 14:58:52,842 - ME modelNone - DEBUG - Added constraint: UR_EX_glc__D_e
+2021-01-12 14:58:52,843 - ME modelNone - DEBUG - Added variable: FU_EX_gln__L_e
+2021-01-12 14:58:52,843 - ME modelNone - DEBUG - Added variable: BU_EX_gln__L_e
+2021-01-12 14:58:52,844 - ME modelNone - DEBUG - Added constraint: SU_EX_gln__L_e
+2021-01-12 14:58:52,845 - ME modelNone - DEBUG - Added constraint: UF_EX_gln__L_e
+2021-01-12 14:58:52,846 - ME modelNone - DEBUG - Added constraint: UR_EX_gln__L_e
+2021-01-12 14:58:52,847 - ME modelNone - DEBUG - Added variable: FU_EX_glu__L_e
+2021-01-12 14:58:52,847 - ME modelNone - DEBUG - Added variable: BU_EX_glu__L_e
+2021-01-12 14:58:52,848 - ME modelNone - DEBUG - Added constraint: SU_EX_glu__L_e
+2021-01-12 14:58:52,849 - ME modelNone - DEBUG - Added constraint: UF_EX_glu__L_e
+2021-01-12 14:58:52,850 - ME modelNone - DEBUG - Added constraint: UR_EX_glu__L_e
+2021-01-12 14:58:52,851 - ME modelNone - DEBUG - Added variable: FU_EX_h_e
+2021-01-12 14:58:52,851 - ME modelNone - DEBUG - Added variable: BU_EX_h_e
+2021-01-12 14:58:52,852 - ME modelNone - DEBUG - Added constraint: SU_EX_h_e
+2021-01-12 14:58:52,853 - ME modelNone - DEBUG - Added constraint: UF_EX_h_e
+2021-01-12 14:58:52,854 - ME modelNone - DEBUG - Added constraint: UR_EX_h_e
+2021-01-12 14:58:52,855 - ME modelNone - DEBUG - Added variable: FU_EX_h2o_e
+2021-01-12 14:58:52,855 - ME modelNone - DEBUG - Added variable: BU_EX_h2o_e
+2021-01-12 14:58:52,856 - ME modelNone - DEBUG - Added constraint: SU_EX_h2o_e
+2021-01-12 14:58:52,857 - ME modelNone - DEBUG - Added constraint: UF_EX_h2o_e
+2021-01-12 14:58:52,858 - ME modelNone - DEBUG - Added constraint: UR_EX_h2o_e
+2021-01-12 14:58:52,858 - ME modelNone - DEBUG - Added variable: FU_EX_lac__D_e
+2021-01-12 14:58:52,859 - ME modelNone - DEBUG - Added variable: BU_EX_lac__D_e
+2021-01-12 14:58:52,859 - ME modelNone - DEBUG - Added constraint: SU_EX_lac__D_e
+2021-01-12 14:58:52,860 - ME modelNone - DEBUG - Added constraint: UF_EX_lac__D_e
+2021-01-12 14:58:52,861 - ME modelNone - DEBUG - Added constraint: UR_EX_lac__D_e
+2021-01-12 14:58:52,862 - ME modelNone - DEBUG - Added variable: FU_EX_mal__L_e
+2021-01-12 14:58:52,863 - ME modelNone - DEBUG - Added variable: BU_EX_mal__L_e
+2021-01-12 14:58:52,863 - ME modelNone - DEBUG - Added constraint: SU_EX_mal__L_e
+2021-01-12 14:58:52,864 - ME modelNone - DEBUG - Added constraint: UF_EX_mal__L_e
+2021-01-12 14:58:52,865 - ME modelNone - DEBUG - Added constraint: UR_EX_mal__L_e
+2021-01-12 14:58:52,866 - ME modelNone - DEBUG - Added variable: FU_EX_nh4_e
+2021-01-12 14:58:52,866 - ME modelNone - DEBUG - Added variable: BU_EX_nh4_e
+2021-01-12 14:58:52,867 - ME modelNone - DEBUG - Added constraint: SU_EX_nh4_e
+2021-01-12 14:58:52,868 - ME modelNone - DEBUG - Added constraint: UF_EX_nh4_e
+2021-01-12 14:58:52,869 - ME modelNone - DEBUG - Added constraint: UR_EX_nh4_e
+2021-01-12 14:58:52,870 - ME modelNone - DEBUG - Added variable: FU_EX_o2_e
+2021-01-12 14:58:52,870 - ME modelNone - DEBUG - Added variable: BU_EX_o2_e
+2021-01-12 14:58:52,871 - ME modelNone - DEBUG - Added constraint: SU_EX_o2_e
+2021-01-12 14:58:52,872 - ME modelNone - DEBUG - Added constraint: UF_EX_o2_e
+2021-01-12 14:58:52,873 - ME modelNone - DEBUG - Added constraint: UR_EX_o2_e
+2021-01-12 14:58:52,873 - ME modelNone - DEBUG - Added variable: FU_EX_pi_e
+2021-01-12 14:58:52,874 - ME modelNone - DEBUG - Added variable: BU_EX_pi_e
+2021-01-12 14:58:52,874 - ME modelNone - DEBUG - Added constraint: SU_EX_pi_e
+2021-01-12 14:58:52,875 - ME modelNone - DEBUG - Added constraint: UF_EX_pi_e
+2021-01-12 14:58:52,876 - ME modelNone - DEBUG - Added constraint: UR_EX_pi_e
+2021-01-12 14:58:52,877 - ME modelNone - DEBUG - Added variable: FU_EX_pyr_e
+2021-01-12 14:58:52,878 - ME modelNone - DEBUG - Added variable: BU_EX_pyr_e
+2021-01-12 14:58:52,878 - ME modelNone - DEBUG - Added constraint: SU_EX_pyr_e
+2021-01-12 14:58:52,879 - ME modelNone - DEBUG - Added constraint: UF_EX_pyr_e
+2021-01-12 14:58:52,880 - ME modelNone - DEBUG - Added constraint: UR_EX_pyr_e
+2021-01-12 14:58:52,881 - ME modelNone - DEBUG - Added variable: FU_EX_succ_e
+2021-01-12 14:58:52,882 - ME modelNone - DEBUG - Added variable: BU_EX_succ_e
+2021-01-12 14:58:52,882 - ME modelNone - DEBUG - Added constraint: SU_EX_succ_e
+2021-01-12 14:58:52,883 - ME modelNone - DEBUG - Added constraint: UF_EX_succ_e
+2021-01-12 14:58:52,884 - ME modelNone - DEBUG - Added constraint: UR_EX_succ_e
+2021-01-12 14:58:52,885 - ME modelNone - DEBUG - Added variable: FU_FBA
+2021-01-12 14:58:52,886 - ME modelNone - DEBUG - Added variable: BU_FBA
+2021-01-12 14:58:52,886 - ME modelNone - DEBUG - Added constraint: SU_FBA
+2021-01-12 14:58:52,887 - ME modelNone - DEBUG - Added constraint: UF_FBA
+2021-01-12 14:58:52,888 - ME modelNone - DEBUG - Added constraint: UR_FBA
+2021-01-12 14:58:52,889 - ME modelNone - DEBUG - Added variable: FU_FBP
+2021-01-12 14:58:52,889 - ME modelNone - DEBUG - Added variable: BU_FBP
+2021-01-12 14:58:52,890 - ME modelNone - DEBUG - Added constraint: SU_FBP
+2021-01-12 14:58:52,891 - ME modelNone - DEBUG - Added constraint: UF_FBP
+2021-01-12 14:58:52,892 - ME modelNone - DEBUG - Added constraint: UR_FBP
+2021-01-12 14:58:52,893 - ME modelNone - DEBUG - Added variable: FU_FORt2
+2021-01-12 14:58:52,893 - ME modelNone - DEBUG - Added variable: BU_FORt2
+2021-01-12 14:58:52,894 - ME modelNone - DEBUG - Added constraint: SU_FORt2
+2021-01-12 14:58:52,895 - ME modelNone - DEBUG - Added constraint: UF_FORt2
+2021-01-12 14:58:52,896 - ME modelNone - DEBUG - Added constraint: UR_FORt2
+2021-01-12 14:58:52,896 - ME modelNone - DEBUG - Added variable: FU_FORt
+2021-01-12 14:58:52,897 - ME modelNone - DEBUG - Added variable: BU_FORt
+2021-01-12 14:58:52,897 - ME modelNone - DEBUG - Added constraint: SU_FORt
+2021-01-12 14:58:52,898 - ME modelNone - DEBUG - Added constraint: UF_FORt
+2021-01-12 14:58:52,899 - ME modelNone - DEBUG - Added constraint: UR_FORt
+2021-01-12 14:58:52,900 - ME modelNone - DEBUG - Added variable: FU_FRD7
+2021-01-12 14:58:52,900 - ME modelNone - DEBUG - Added variable: BU_FRD7
+2021-01-12 14:58:52,901 - ME modelNone - DEBUG - Added constraint: SU_FRD7
+2021-01-12 14:58:52,902 - ME modelNone - DEBUG - Added constraint: UF_FRD7
+2021-01-12 14:58:52,902 - ME modelNone - DEBUG - Added constraint: UR_FRD7
+2021-01-12 14:58:52,903 - ME modelNone - DEBUG - Added variable: FU_FRUpts2
+2021-01-12 14:58:52,903 - ME modelNone - DEBUG - Added variable: BU_FRUpts2
+2021-01-12 14:58:52,904 - ME modelNone - DEBUG - Added constraint: SU_FRUpts2
+2021-01-12 14:58:52,905 - ME modelNone - DEBUG - Added constraint: UF_FRUpts2
+2021-01-12 14:58:52,906 - ME modelNone - DEBUG - Added constraint: UR_FRUpts2
+2021-01-12 14:58:52,906 - ME modelNone - DEBUG - Added variable: FU_FUM
+2021-01-12 14:58:52,907 - ME modelNone - DEBUG - Added variable: BU_FUM
+2021-01-12 14:58:52,907 - ME modelNone - DEBUG - Added constraint: SU_FUM
+2021-01-12 14:58:52,908 - ME modelNone - DEBUG - Added constraint: UF_FUM
+2021-01-12 14:58:52,909 - ME modelNone - DEBUG - Added constraint: UR_FUM
+2021-01-12 14:58:52,909 - ME modelNone - DEBUG - Added variable: FU_FUMt2_2
+2021-01-12 14:58:52,910 - ME modelNone - DEBUG - Added variable: BU_FUMt2_2
+2021-01-12 14:58:52,910 - ME modelNone - DEBUG - Added constraint: SU_FUMt2_2
+2021-01-12 14:58:52,911 - ME modelNone - DEBUG - Added constraint: UF_FUMt2_2
+2021-01-12 14:58:52,912 - ME modelNone - DEBUG - Added constraint: UR_FUMt2_2
+2021-01-12 14:58:52,913 - ME modelNone - DEBUG - Added variable: FU_G6PDH2r
+2021-01-12 14:58:52,914 - ME modelNone - DEBUG - Added variable: BU_G6PDH2r
+2021-01-12 14:58:52,914 - ME modelNone - DEBUG - Added constraint: SU_G6PDH2r
+2021-01-12 14:58:52,915 - ME modelNone - DEBUG - Added constraint: UF_G6PDH2r
+2021-01-12 14:58:52,916 - ME modelNone - DEBUG - Added constraint: UR_G6PDH2r
+2021-01-12 14:58:52,918 - ME modelNone - DEBUG - Added variable: FU_GAPD
+2021-01-12 14:58:52,919 - ME modelNone - DEBUG - Added variable: BU_GAPD
+2021-01-12 14:58:52,919 - ME modelNone - DEBUG - Added constraint: SU_GAPD
+2021-01-12 14:58:52,920 - ME modelNone - DEBUG - Added constraint: UF_GAPD
+2021-01-12 14:58:52,921 - ME modelNone - DEBUG - Added constraint: UR_GAPD
+2021-01-12 14:58:52,922 - ME modelNone - DEBUG - Added variable: FU_GLCpts
+2021-01-12 14:58:52,922 - ME modelNone - DEBUG - Added variable: BU_GLCpts
+2021-01-12 14:58:52,923 - ME modelNone - DEBUG - Added constraint: SU_GLCpts
+2021-01-12 14:58:52,923 - ME modelNone - DEBUG - Added constraint: UF_GLCpts
+2021-01-12 14:58:52,924 - ME modelNone - DEBUG - Added constraint: UR_GLCpts
+2021-01-12 14:58:52,924 - ME modelNone - DEBUG - Added variable: FU_GLNS
+2021-01-12 14:58:52,925 - ME modelNone - DEBUG - Added variable: BU_GLNS
+2021-01-12 14:58:52,925 - ME modelNone - DEBUG - Added constraint: SU_GLNS
+2021-01-12 14:58:52,926 - ME modelNone - DEBUG - Added constraint: UF_GLNS
+2021-01-12 14:58:52,926 - ME modelNone - DEBUG - Added constraint: UR_GLNS
+2021-01-12 14:58:52,927 - ME modelNone - DEBUG - Added variable: FU_GLNabc
+2021-01-12 14:58:52,927 - ME modelNone - DEBUG - Added variable: BU_GLNabc
+2021-01-12 14:58:52,927 - ME modelNone - DEBUG - Added constraint: SU_GLNabc
+2021-01-12 14:58:52,928 - ME modelNone - DEBUG - Added constraint: UF_GLNabc
+2021-01-12 14:58:52,929 - ME modelNone - DEBUG - Added constraint: UR_GLNabc
+2021-01-12 14:58:52,929 - ME modelNone - DEBUG - Added variable: FU_GLUDy
+2021-01-12 14:58:52,930 - ME modelNone - DEBUG - Added variable: BU_GLUDy
+2021-01-12 14:58:52,930 - ME modelNone - DEBUG - Added constraint: SU_GLUDy
+2021-01-12 14:58:52,931 - ME modelNone - DEBUG - Added constraint: UF_GLUDy
+2021-01-12 14:58:52,932 - ME modelNone - DEBUG - Added constraint: UR_GLUDy
+2021-01-12 14:58:52,933 - ME modelNone - DEBUG - Added variable: FU_GLUN
+2021-01-12 14:58:52,933 - ME modelNone - DEBUG - Added variable: BU_GLUN
+2021-01-12 14:58:52,934 - ME modelNone - DEBUG - Added constraint: SU_GLUN
+2021-01-12 14:58:52,935 - ME modelNone - DEBUG - Added constraint: UF_GLUN
+2021-01-12 14:58:52,936 - ME modelNone - DEBUG - Added constraint: UR_GLUN
+2021-01-12 14:58:52,936 - ME modelNone - DEBUG - Added variable: FU_GLUSy
+2021-01-12 14:58:52,937 - ME modelNone - DEBUG - Added variable: BU_GLUSy
+2021-01-12 14:58:52,937 - ME modelNone - DEBUG - Added constraint: SU_GLUSy
+2021-01-12 14:58:52,938 - ME modelNone - DEBUG - Added constraint: UF_GLUSy
+2021-01-12 14:58:52,939 - ME modelNone - DEBUG - Added constraint: UR_GLUSy
+2021-01-12 14:58:52,939 - ME modelNone - DEBUG - Added variable: FU_GLUt2r
+2021-01-12 14:58:52,940 - ME modelNone - DEBUG - Added variable: BU_GLUt2r
+2021-01-12 14:58:52,940 - ME modelNone - DEBUG - Added constraint: SU_GLUt2r
+2021-01-12 14:58:52,941 - ME modelNone - DEBUG - Added constraint: UF_GLUt2r
+2021-01-12 14:58:52,942 - ME modelNone - DEBUG - Added constraint: UR_GLUt2r
+2021-01-12 14:58:52,943 - ME modelNone - DEBUG - Added variable: FU_GND
+2021-01-12 14:58:52,943 - ME modelNone - DEBUG - Added variable: BU_GND
+2021-01-12 14:58:52,944 - ME modelNone - DEBUG - Added constraint: SU_GND
+2021-01-12 14:58:52,945 - ME modelNone - DEBUG - Added constraint: UF_GND
+2021-01-12 14:58:52,946 - ME modelNone - DEBUG - Added constraint: UR_GND
+2021-01-12 14:58:52,946 - ME modelNone - DEBUG - Added variable: FU_H2Ot
+2021-01-12 14:58:52,947 - ME modelNone - DEBUG - Added variable: BU_H2Ot
+2021-01-12 14:58:52,947 - ME modelNone - DEBUG - Added constraint: SU_H2Ot
+2021-01-12 14:58:52,948 - ME modelNone - DEBUG - Added constraint: UF_H2Ot
+2021-01-12 14:58:52,948 - ME modelNone - DEBUG - Added constraint: UR_H2Ot
+2021-01-12 14:58:52,949 - ME modelNone - DEBUG - Added variable: FU_ICDHyr
+2021-01-12 14:58:52,949 - ME modelNone - DEBUG - Added variable: BU_ICDHyr
+2021-01-12 14:58:52,950 - ME modelNone - DEBUG - Added constraint: SU_ICDHyr
+2021-01-12 14:58:52,950 - ME modelNone - DEBUG - Added constraint: UF_ICDHyr
+2021-01-12 14:58:52,951 - ME modelNone - DEBUG - Added constraint: UR_ICDHyr
+2021-01-12 14:58:52,952 - ME modelNone - DEBUG - Added variable: FU_ICL
+2021-01-12 14:58:52,953 - ME modelNone - DEBUG - Added variable: BU_ICL
+2021-01-12 14:58:52,953 - ME modelNone - DEBUG - Added constraint: SU_ICL
+2021-01-12 14:58:52,954 - ME modelNone - DEBUG - Added constraint: UF_ICL
+2021-01-12 14:58:52,955 - ME modelNone - DEBUG - Added constraint: UR_ICL
+2021-01-12 14:58:52,955 - ME modelNone - DEBUG - Added variable: FU_LDH_D
+2021-01-12 14:58:52,955 - ME modelNone - DEBUG - Added variable: BU_LDH_D
+2021-01-12 14:58:52,956 - ME modelNone - DEBUG - Added constraint: SU_LDH_D
+2021-01-12 14:58:52,956 - ME modelNone - DEBUG - Added constraint: UF_LDH_D
+2021-01-12 14:58:52,957 - ME modelNone - DEBUG - Added constraint: UR_LDH_D
+2021-01-12 14:58:52,958 - ME modelNone - DEBUG - Added variable: FU_MALS
+2021-01-12 14:58:52,958 - ME modelNone - DEBUG - Added variable: BU_MALS
+2021-01-12 14:58:52,958 - ME modelNone - DEBUG - Added constraint: SU_MALS
+2021-01-12 14:58:52,959 - ME modelNone - DEBUG - Added constraint: UF_MALS
+2021-01-12 14:58:52,959 - ME modelNone - DEBUG - Added constraint: UR_MALS
+2021-01-12 14:58:52,960 - ME modelNone - DEBUG - Added variable: FU_MALt2_2
+2021-01-12 14:58:52,960 - ME modelNone - DEBUG - Added variable: BU_MALt2_2
+2021-01-12 14:58:52,961 - ME modelNone - DEBUG - Added constraint: SU_MALt2_2
+2021-01-12 14:58:52,962 - ME modelNone - DEBUG - Added constraint: UF_MALt2_2
+2021-01-12 14:58:52,963 - ME modelNone - DEBUG - Added constraint: UR_MALt2_2
+2021-01-12 14:58:52,963 - ME modelNone - DEBUG - Added variable: FU_MDH
+2021-01-12 14:58:52,964 - ME modelNone - DEBUG - Added variable: BU_MDH
+2021-01-12 14:58:52,964 - ME modelNone - DEBUG - Added constraint: SU_MDH
+2021-01-12 14:58:52,965 - ME modelNone - DEBUG - Added constraint: UF_MDH
+2021-01-12 14:58:52,966 - ME modelNone - DEBUG - Added constraint: UR_MDH
+2021-01-12 14:58:52,967 - ME modelNone - DEBUG - Added variable: FU_ME1
+2021-01-12 14:58:52,967 - ME modelNone - DEBUG - Added variable: BU_ME1
+2021-01-12 14:58:52,968 - ME modelNone - DEBUG - Added constraint: SU_ME1
+2021-01-12 14:58:52,969 - ME modelNone - DEBUG - Added constraint: UF_ME1
+2021-01-12 14:58:52,970 - ME modelNone - DEBUG - Added constraint: UR_ME1
+2021-01-12 14:58:52,970 - ME modelNone - DEBUG - Added variable: FU_ME2
+2021-01-12 14:58:52,971 - ME modelNone - DEBUG - Added variable: BU_ME2
+2021-01-12 14:58:52,971 - ME modelNone - DEBUG - Added constraint: SU_ME2
+2021-01-12 14:58:52,972 - ME modelNone - DEBUG - Added constraint: UF_ME2
+2021-01-12 14:58:52,973 - ME modelNone - DEBUG - Added constraint: UR_ME2
+2021-01-12 14:58:52,973 - ME modelNone - DEBUG - Added variable: FU_NADH16
+2021-01-12 14:58:52,974 - ME modelNone - DEBUG - Added variable: BU_NADH16
+2021-01-12 14:58:52,974 - ME modelNone - DEBUG - Added constraint: SU_NADH16
+2021-01-12 14:58:52,975 - ME modelNone - DEBUG - Added constraint: UF_NADH16
+2021-01-12 14:58:52,976 - ME modelNone - DEBUG - Added constraint: UR_NADH16
+2021-01-12 14:58:52,977 - ME modelNone - DEBUG - Added variable: FU_NADTRHD
+2021-01-12 14:58:52,977 - ME modelNone - DEBUG - Added variable: BU_NADTRHD
+2021-01-12 14:58:52,977 - ME modelNone - DEBUG - Added constraint: SU_NADTRHD
+2021-01-12 14:58:52,978 - ME modelNone - DEBUG - Added constraint: UF_NADTRHD
+2021-01-12 14:58:52,979 - ME modelNone - DEBUG - Added constraint: UR_NADTRHD
+2021-01-12 14:58:52,980 - ME modelNone - DEBUG - Added variable: FU_NH4t
+2021-01-12 14:58:52,980 - ME modelNone - DEBUG - Added variable: BU_NH4t
+2021-01-12 14:58:52,981 - ME modelNone - DEBUG - Added constraint: SU_NH4t
+2021-01-12 14:58:52,982 - ME modelNone - DEBUG - Added constraint: UF_NH4t
+2021-01-12 14:58:52,983 - ME modelNone - DEBUG - Added constraint: UR_NH4t
+2021-01-12 14:58:52,983 - ME modelNone - DEBUG - Added variable: FU_O2t
+2021-01-12 14:58:52,984 - ME modelNone - DEBUG - Added variable: BU_O2t
+2021-01-12 14:58:52,984 - ME modelNone - DEBUG - Added constraint: SU_O2t
+2021-01-12 14:58:52,985 - ME modelNone - DEBUG - Added constraint: UF_O2t
+2021-01-12 14:58:52,986 - ME modelNone - DEBUG - Added constraint: UR_O2t
+2021-01-12 14:58:52,987 - ME modelNone - DEBUG - Added variable: FU_PDH
+2021-01-12 14:58:52,988 - ME modelNone - DEBUG - Added variable: BU_PDH
+2021-01-12 14:58:52,988 - ME modelNone - DEBUG - Added constraint: SU_PDH
+2021-01-12 14:58:52,989 - ME modelNone - DEBUG - Added constraint: UF_PDH
+2021-01-12 14:58:52,990 - ME modelNone - DEBUG - Added constraint: UR_PDH
+2021-01-12 14:58:52,990 - ME modelNone - INFO - # Model conversion done.
+2021-01-12 14:58:52,990 - ME modelNone - INFO - # Updating cobra_model variables...
+2021-01-12 14:58:52,993 - ME modelNone - INFO - # cobra_model variables are up-to-date
+2021-01-12 14:58:52,993 - ME modelNone - INFO - Setting minimal growth rate to 95% of the TFA solution
+2021-01-12 14:58:53,029 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:58:53,030 - ME modelNone - INFO - Setting minimal growth rate to 0.8739215069684302
+2021-01-12 14:58:53,030 - ME modelNone - INFO - Enumerating minmal networks ...
+2021-01-12 14:58:53,032 - ME modelNone - INFO -  Removing blocked reaction (that will help in optimization) ...
+2021-01-12 14:58:53,032 - ME modelNone - INFO - Beginning variability analysis for variable of type reactions
+2021-01-12 14:58:53,043 - ME modelNone - DEBUG - min-PFK
+2021-01-12 14:58:53,051 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,051 - ME modelNone - DEBUG - min-PFL
+2021-01-12 14:58:53,057 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,057 - ME modelNone - DEBUG - min-PGI
+2021-01-12 14:58:53,073 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,073 - ME modelNone - DEBUG - min-PGK
+2021-01-12 14:58:53,093 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.02 sec
+2021-01-12 14:58:53,093 - ME modelNone - DEBUG - min-PGL
+2021-01-12 14:58:53,097 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,097 - ME modelNone - DEBUG - min-ACALD
+2021-01-12 14:58:53,109 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,109 - ME modelNone - DEBUG - min-AKGt2r
+2021-01-12 14:58:53,123 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,123 - ME modelNone - DEBUG - min-PGM
+2021-01-12 14:58:53,131 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,131 - ME modelNone - DEBUG - min-PIt2r
+2021-01-12 14:58:53,142 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,142 - ME modelNone - DEBUG - min-ALCD2x
+2021-01-12 14:58:53,156 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,156 - ME modelNone - DEBUG - min-ACALDt
+2021-01-12 14:58:53,164 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,164 - ME modelNone - DEBUG - min-ACKr
+2021-01-12 14:58:53,178 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,178 - ME modelNone - DEBUG - min-PPC
+2021-01-12 14:58:53,184 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,184 - ME modelNone - DEBUG - min-ACONTa
+2021-01-12 14:58:53,195 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,195 - ME modelNone - DEBUG - min-ACONTb
+2021-01-12 14:58:53,205 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,205 - ME modelNone - DEBUG - min-ATPM
+2021-01-12 14:58:53,211 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,211 - ME modelNone - DEBUG - min-PPCK
+2021-01-12 14:58:53,217 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,217 - ME modelNone - DEBUG - min-ACt2r
+2021-01-12 14:58:53,225 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,225 - ME modelNone - DEBUG - min-PPS
+2021-01-12 14:58:53,229 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,229 - ME modelNone - DEBUG - min-ADK1
+2021-01-12 14:58:53,239 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,239 - ME modelNone - DEBUG - min-AKGDH
+2021-01-12 14:58:53,244 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,244 - ME modelNone - DEBUG - min-ATPS4r
+2021-01-12 14:58:53,257 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,258 - ME modelNone - DEBUG - min-PTAr
+2021-01-12 14:58:53,268 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,268 - ME modelNone - DEBUG - min-PYK
+2021-01-12 14:58:53,273 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,273 - ME modelNone - DEBUG - min-BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:53,278 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,278 - ME modelNone - DEBUG - min-PYRt2
+2021-01-12 14:58:53,289 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,289 - ME modelNone - DEBUG - min-CO2t
+2021-01-12 14:58:53,298 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,298 - ME modelNone - DEBUG - min-RPE
+2021-01-12 14:58:53,312 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,312 - ME modelNone - DEBUG - min-CS
+2021-01-12 14:58:53,316 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,316 - ME modelNone - DEBUG - min-RPI
+2021-01-12 14:58:53,324 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,324 - ME modelNone - DEBUG - min-SUCCt2_2
+2021-01-12 14:58:53,330 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,330 - ME modelNone - DEBUG - min-CYTBD
+2021-01-12 14:58:53,334 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,334 - ME modelNone - DEBUG - min-D_LACt2
+2021-01-12 14:58:53,345 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,345 - ME modelNone - DEBUG - min-ENO
+2021-01-12 14:58:53,355 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,355 - ME modelNone - DEBUG - min-SUCCt3
+2021-01-12 14:58:53,361 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,361 - ME modelNone - DEBUG - min-ETOHt2r
+2021-01-12 14:58:53,368 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,368 - ME modelNone - DEBUG - min-SUCDi
+2021-01-12 14:58:53,373 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,374 - ME modelNone - DEBUG - min-SUCOAS
+2021-01-12 14:58:53,383 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,383 - ME modelNone - DEBUG - min-TALA
+2021-01-12 14:58:53,392 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,392 - ME modelNone - DEBUG - min-THD2
+2021-01-12 14:58:53,398 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,398 - ME modelNone - DEBUG - min-TKT1
+2021-01-12 14:58:53,409 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,410 - ME modelNone - DEBUG - min-TKT2
+2021-01-12 14:58:53,419 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,419 - ME modelNone - DEBUG - min-TPI
+2021-01-12 14:58:53,427 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,428 - ME modelNone - DEBUG - min-EX_ac_e
+2021-01-12 14:58:53,433 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,434 - ME modelNone - DEBUG - min-EX_acald_e
+2021-01-12 14:58:53,439 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,440 - ME modelNone - DEBUG - min-EX_akg_e
+2021-01-12 14:58:53,445 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,446 - ME modelNone - DEBUG - min-EX_co2_e
+2021-01-12 14:58:53,455 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,455 - ME modelNone - DEBUG - min-EX_etoh_e
+2021-01-12 14:58:53,461 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,462 - ME modelNone - DEBUG - min-EX_for_e
+2021-01-12 14:58:53,468 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,468 - ME modelNone - DEBUG - min-EX_fru_e
+2021-01-12 14:58:53,475 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,475 - ME modelNone - DEBUG - min-EX_fum_e
+2021-01-12 14:58:53,480 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,481 - ME modelNone - DEBUG - min-EX_glc__D_e
+2021-01-12 14:58:53,486 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,487 - ME modelNone - DEBUG - min-EX_gln__L_e
+2021-01-12 14:58:53,492 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,493 - ME modelNone - DEBUG - min-EX_glu__L_e
+2021-01-12 14:58:53,498 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,498 - ME modelNone - DEBUG - min-EX_h_e
+2021-01-12 14:58:53,511 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,511 - ME modelNone - DEBUG - min-EX_h2o_e
+2021-01-12 14:58:53,524 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,525 - ME modelNone - DEBUG - min-EX_lac__D_e
+2021-01-12 14:58:53,530 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,530 - ME modelNone - DEBUG - min-EX_mal__L_e
+2021-01-12 14:58:53,536 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,537 - ME modelNone - DEBUG - min-EX_nh4_e
+2021-01-12 14:58:53,551 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,551 - ME modelNone - DEBUG - min-EX_o2_e
+2021-01-12 14:58:53,559 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,559 - ME modelNone - DEBUG - min-EX_pi_e
+2021-01-12 14:58:53,570 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,570 - ME modelNone - DEBUG - min-EX_pyr_e
+2021-01-12 14:58:53,576 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,577 - ME modelNone - DEBUG - min-EX_succ_e
+2021-01-12 14:58:53,582 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,582 - ME modelNone - DEBUG - min-FBA
+2021-01-12 14:58:53,592 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,592 - ME modelNone - DEBUG - min-FBP
+2021-01-12 14:58:53,598 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,599 - ME modelNone - DEBUG - min-FORt2
+2021-01-12 14:58:53,605 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,605 - ME modelNone - DEBUG - min-FORt
+2021-01-12 14:58:53,614 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,614 - ME modelNone - DEBUG - min-FRD7
+2021-01-12 14:58:53,620 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,620 - ME modelNone - DEBUG - min-FRUpts2
+2021-01-12 14:58:53,626 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,627 - ME modelNone - DEBUG - min-FUM
+2021-01-12 14:58:53,636 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,636 - ME modelNone - DEBUG - min-FUMt2_2
+2021-01-12 14:58:53,642 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,642 - ME modelNone - DEBUG - min-G6PDH2r
+2021-01-12 14:58:53,654 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,654 - ME modelNone - DEBUG - min-GAPD
+2021-01-12 14:58:53,667 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,667 - ME modelNone - DEBUG - min-GLCpts
+2021-01-12 14:58:53,677 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,677 - ME modelNone - DEBUG - min-GLNS
+2021-01-12 14:58:53,683 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,683 - ME modelNone - DEBUG - min-GLNabc
+2021-01-12 14:58:53,689 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,690 - ME modelNone - DEBUG - min-GLUDy
+2021-01-12 14:58:53,698 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,698 - ME modelNone - DEBUG - min-GLUN
+2021-01-12 14:58:53,704 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,704 - ME modelNone - DEBUG - min-GLUSy
+2021-01-12 14:58:53,710 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,711 - ME modelNone - DEBUG - min-GLUt2r
+2021-01-12 14:58:53,720 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,720 - ME modelNone - DEBUG - min-GND
+2021-01-12 14:58:53,726 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,727 - ME modelNone - DEBUG - min-H2Ot
+2021-01-12 14:58:53,739 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,739 - ME modelNone - DEBUG - min-ICDHyr
+2021-01-12 14:58:53,753 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,753 - ME modelNone - DEBUG - min-ICL
+2021-01-12 14:58:53,759 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,760 - ME modelNone - DEBUG - min-LDH_D
+2021-01-12 14:58:53,769 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,769 - ME modelNone - DEBUG - min-MALS
+2021-01-12 14:58:53,776 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,776 - ME modelNone - DEBUG - min-MALt2_2
+2021-01-12 14:58:53,782 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,783 - ME modelNone - DEBUG - min-MDH
+2021-01-12 14:58:53,798 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,798 - ME modelNone - DEBUG - min-ME1
+2021-01-12 14:58:53,805 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,805 - ME modelNone - DEBUG - min-ME2
+2021-01-12 14:58:53,811 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,811 - ME modelNone - DEBUG - min-NADH16
+2021-01-12 14:58:53,819 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,819 - ME modelNone - DEBUG - min-NADTRHD
+2021-01-12 14:58:53,826 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,826 - ME modelNone - DEBUG - min-NH4t
+2021-01-12 14:58:53,840 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,840 - ME modelNone - DEBUG - min-O2t
+2021-01-12 14:58:53,853 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,854 - ME modelNone - DEBUG - min-PDH
+2021-01-12 14:58:53,860 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,861 - ME modelNone - DEBUG - max-PFK
+2021-01-12 14:58:53,874 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,874 - ME modelNone - DEBUG - max-PFL
+2021-01-12 14:58:53,885 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,885 - ME modelNone - DEBUG - max-PGI
+2021-01-12 14:58:53,891 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:53,891 - ME modelNone - DEBUG - max-PGK
+2021-01-12 14:58:53,903 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,903 - ME modelNone - DEBUG - max-PGL
+2021-01-12 14:58:53,912 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,912 - ME modelNone - DEBUG - max-ACALD
+2021-01-12 14:58:53,921 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,921 - ME modelNone - DEBUG - max-AKGt2r
+2021-01-12 14:58:53,931 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,931 - ME modelNone - DEBUG - max-PGM
+2021-01-12 14:58:53,942 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,942 - ME modelNone - DEBUG - max-PIt2r
+2021-01-12 14:58:53,951 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,951 - ME modelNone - DEBUG - max-ALCD2x
+2021-01-12 14:58:53,961 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,962 - ME modelNone - DEBUG - max-ACALDt
+2021-01-12 14:58:53,973 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,973 - ME modelNone - DEBUG - max-ACKr
+2021-01-12 14:58:53,985 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:53,985 - ME modelNone - DEBUG - max-PPC
+2021-01-12 14:58:54,001 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,002 - ME modelNone - DEBUG - max-ACONTa
+2021-01-12 14:58:54,011 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,011 - ME modelNone - DEBUG - max-ACONTb
+2021-01-12 14:58:54,019 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,020 - ME modelNone - DEBUG - max-ATPM
+2021-01-12 14:58:54,035 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,035 - ME modelNone - DEBUG - max-PPCK
+2021-01-12 14:58:54,048 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,048 - ME modelNone - DEBUG - max-ACt2r
+2021-01-12 14:58:54,058 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,058 - ME modelNone - DEBUG - max-PPS
+2021-01-12 14:58:54,071 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,071 - ME modelNone - DEBUG - max-ADK1
+2021-01-12 14:58:54,080 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,081 - ME modelNone - DEBUG - max-AKGDH
+2021-01-12 14:58:54,089 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,090 - ME modelNone - DEBUG - max-ATPS4r
+2021-01-12 14:58:54,110 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.02 sec
+2021-01-12 14:58:54,110 - ME modelNone - DEBUG - max-PTAr
+2021-01-12 14:58:54,119 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,119 - ME modelNone - DEBUG - max-PYK
+2021-01-12 14:58:54,128 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,128 - ME modelNone - DEBUG - max-BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:54,137 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,137 - ME modelNone - DEBUG - max-PYRt2
+2021-01-12 14:58:54,147 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,147 - ME modelNone - DEBUG - max-CO2t
+2021-01-12 14:58:54,155 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,155 - ME modelNone - DEBUG - max-RPE
+2021-01-12 14:58:54,164 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,164 - ME modelNone - DEBUG - max-CS
+2021-01-12 14:58:54,172 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,173 - ME modelNone - DEBUG - max-RPI
+2021-01-12 14:58:54,183 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,184 - ME modelNone - DEBUG - max-SUCCt2_2
+2021-01-12 14:58:54,197 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,197 - ME modelNone - DEBUG - max-CYTBD
+2021-01-12 14:58:54,205 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,205 - ME modelNone - DEBUG - max-D_LACt2
+2021-01-12 14:58:54,216 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,217 - ME modelNone - DEBUG - max-ENO
+2021-01-12 14:58:54,225 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,226 - ME modelNone - DEBUG - max-SUCCt3
+2021-01-12 14:58:54,232 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:54,232 - ME modelNone - DEBUG - max-ETOHt2r
+2021-01-12 14:58:54,244 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,244 - ME modelNone - DEBUG - max-SUCDi
+2021-01-12 14:58:54,258 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,258 - ME modelNone - DEBUG - max-SUCOAS
+2021-01-12 14:58:54,271 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,271 - ME modelNone - DEBUG - max-TALA
+2021-01-12 14:58:54,281 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,281 - ME modelNone - DEBUG - max-THD2
+2021-01-12 14:58:54,307 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.02 sec
+2021-01-12 14:58:54,308 - ME modelNone - DEBUG - max-TKT1
+2021-01-12 14:58:54,320 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,321 - ME modelNone - DEBUG - max-TKT2
+2021-01-12 14:58:54,332 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,332 - ME modelNone - DEBUG - max-TPI
+2021-01-12 14:58:54,349 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,349 - ME modelNone - DEBUG - max-EX_ac_e
+2021-01-12 14:58:54,360 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,360 - ME modelNone - DEBUG - max-EX_acald_e
+2021-01-12 14:58:54,369 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,369 - ME modelNone - DEBUG - max-EX_akg_e
+2021-01-12 14:58:54,378 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,378 - ME modelNone - DEBUG - max-EX_co2_e
+2021-01-12 14:58:54,387 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,387 - ME modelNone - DEBUG - max-EX_etoh_e
+2021-01-12 14:58:54,395 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,395 - ME modelNone - DEBUG - max-EX_for_e
+2021-01-12 14:58:54,404 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,404 - ME modelNone - DEBUG - max-EX_fru_e
+2021-01-12 14:58:54,414 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,414 - ME modelNone - DEBUG - max-EX_fum_e
+2021-01-12 14:58:54,424 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,424 - ME modelNone - DEBUG - max-EX_glc__D_e
+2021-01-12 14:58:54,432 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,432 - ME modelNone - DEBUG - max-EX_gln__L_e
+2021-01-12 14:58:54,442 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,442 - ME modelNone - DEBUG - max-EX_glu__L_e
+2021-01-12 14:58:54,451 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,451 - ME modelNone - DEBUG - max-EX_h_e
+2021-01-12 14:58:54,460 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,461 - ME modelNone - DEBUG - max-EX_h2o_e
+2021-01-12 14:58:54,470 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,470 - ME modelNone - DEBUG - max-EX_lac__D_e
+2021-01-12 14:58:54,478 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,478 - ME modelNone - DEBUG - max-EX_mal__L_e
+2021-01-12 14:58:54,490 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,490 - ME modelNone - DEBUG - max-EX_nh4_e
+2021-01-12 14:58:54,501 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,501 - ME modelNone - DEBUG - max-EX_o2_e
+2021-01-12 14:58:54,512 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,512 - ME modelNone - DEBUG - max-EX_pi_e
+2021-01-12 14:58:54,525 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,526 - ME modelNone - DEBUG - max-EX_pyr_e
+2021-01-12 14:58:54,534 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,535 - ME modelNone - DEBUG - max-EX_succ_e
+2021-01-12 14:58:54,548 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,548 - ME modelNone - DEBUG - max-FBA
+2021-01-12 14:58:54,558 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,558 - ME modelNone - DEBUG - max-FBP
+2021-01-12 14:58:54,569 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,569 - ME modelNone - DEBUG - max-FORt2
+2021-01-12 14:58:54,580 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,581 - ME modelNone - DEBUG - max-FORt
+2021-01-12 14:58:54,587 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:54,587 - ME modelNone - DEBUG - max-FRD7
+2021-01-12 14:58:54,591 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.00 sec
+2021-01-12 14:58:54,592 - ME modelNone - DEBUG - max-FRUpts2
+2021-01-12 14:58:54,602 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,602 - ME modelNone - DEBUG - max-FUM
+2021-01-12 14:58:54,611 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,611 - ME modelNone - DEBUG - max-FUMt2_2
+2021-01-12 14:58:54,622 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,622 - ME modelNone - DEBUG - max-G6PDH2r
+2021-01-12 14:58:54,632 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,633 - ME modelNone - DEBUG - max-GAPD
+2021-01-12 14:58:54,643 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,643 - ME modelNone - DEBUG - max-GLCpts
+2021-01-12 14:58:54,651 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,651 - ME modelNone - DEBUG - max-GLNS
+2021-01-12 14:58:54,670 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.02 sec
+2021-01-12 14:58:54,670 - ME modelNone - DEBUG - max-GLNabc
+2021-01-12 14:58:54,681 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,681 - ME modelNone - DEBUG - max-GLUDy
+2021-01-12 14:58:54,694 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,694 - ME modelNone - DEBUG - max-GLUN
+2021-01-12 14:58:54,703 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,703 - ME modelNone - DEBUG - max-GLUSy
+2021-01-12 14:58:54,713 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,713 - ME modelNone - DEBUG - max-GLUt2r
+2021-01-12 14:58:54,726 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,726 - ME modelNone - DEBUG - max-GND
+2021-01-12 14:58:54,735 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,735 - ME modelNone - DEBUG - max-H2Ot
+2021-01-12 14:58:54,744 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,745 - ME modelNone - DEBUG - max-ICDHyr
+2021-01-12 14:58:54,753 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,754 - ME modelNone - DEBUG - max-ICL
+2021-01-12 14:58:54,762 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,762 - ME modelNone - DEBUG - max-LDH_D
+2021-01-12 14:58:54,773 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,773 - ME modelNone - DEBUG - max-MALS
+2021-01-12 14:58:54,782 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,782 - ME modelNone - DEBUG - max-MALt2_2
+2021-01-12 14:58:54,792 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,792 - ME modelNone - DEBUG - max-MDH
+2021-01-12 14:58:54,801 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,801 - ME modelNone - DEBUG - max-ME1
+2021-01-12 14:58:54,815 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,815 - ME modelNone - DEBUG - max-ME2
+2021-01-12 14:58:54,828 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,828 - ME modelNone - DEBUG - max-NADH16
+2021-01-12 14:58:54,837 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,837 - ME modelNone - DEBUG - max-NADTRHD
+2021-01-12 14:58:54,855 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.02 sec
+2021-01-12 14:58:54,856 - ME modelNone - DEBUG - max-NH4t
+2021-01-12 14:58:54,865 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,865 - ME modelNone - DEBUG - max-O2t
+2021-01-12 14:58:54,874 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,874 - ME modelNone - DEBUG - max-PDH
+2021-01-12 14:58:54,883 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.01 sec
+2021-01-12 14:58:54,891 - ME modelNone - DEBUG - Added variable: KO_PFK
+2021-01-12 14:58:54,892 - ME modelNone - DEBUG - Added variable: KO_PFL
+2021-01-12 14:58:54,893 - ME modelNone - DEBUG - Added variable: KO_PGI
+2021-01-12 14:58:54,894 - ME modelNone - DEBUG - Added variable: KO_PGK
+2021-01-12 14:58:54,894 - ME modelNone - DEBUG - Added variable: KO_PGL
+2021-01-12 14:58:54,895 - ME modelNone - DEBUG - Added variable: KO_ACALD
+2021-01-12 14:58:54,895 - ME modelNone - DEBUG - Added variable: KO_AKGt2r
+2021-01-12 14:58:54,896 - ME modelNone - DEBUG - Added variable: KO_PGM
+2021-01-12 14:58:54,896 - ME modelNone - DEBUG - Added variable: KO_PIt2r
+2021-01-12 14:58:54,897 - ME modelNone - DEBUG - Added variable: KO_ALCD2x
+2021-01-12 14:58:54,897 - ME modelNone - DEBUG - Added variable: KO_ACALDt
+2021-01-12 14:58:54,898 - ME modelNone - DEBUG - Added variable: KO_ACKr
+2021-01-12 14:58:54,898 - ME modelNone - DEBUG - Added variable: KO_PPC
+2021-01-12 14:58:54,899 - ME modelNone - DEBUG - Added variable: KO_ACONTa
+2021-01-12 14:58:54,899 - ME modelNone - DEBUG - Added variable: KO_ACONTb
+2021-01-12 14:58:54,900 - ME modelNone - DEBUG - Added variable: KO_ATPM
+2021-01-12 14:58:54,900 - ME modelNone - DEBUG - Added variable: KO_PPCK
+2021-01-12 14:58:54,901 - ME modelNone - DEBUG - Added variable: KO_ACt2r
+2021-01-12 14:58:54,901 - ME modelNone - DEBUG - Added variable: KO_PPS
+2021-01-12 14:58:54,902 - ME modelNone - DEBUG - Added variable: KO_ADK1
+2021-01-12 14:58:54,902 - ME modelNone - DEBUG - Added variable: KO_AKGDH
+2021-01-12 14:58:54,903 - ME modelNone - DEBUG - Added variable: KO_ATPS4r
+2021-01-12 14:58:54,903 - ME modelNone - DEBUG - Added variable: KO_PTAr
+2021-01-12 14:58:54,903 - ME modelNone - DEBUG - Added variable: KO_PYK
+2021-01-12 14:58:54,904 - ME modelNone - DEBUG - Added variable: KO_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:54,904 - ME modelNone - DEBUG - Added variable: KO_PYRt2
+2021-01-12 14:58:54,905 - ME modelNone - DEBUG - Added variable: KO_CO2t
+2021-01-12 14:58:54,905 - ME modelNone - DEBUG - Added variable: KO_RPE
+2021-01-12 14:58:54,906 - ME modelNone - DEBUG - Added variable: KO_CS
+2021-01-12 14:58:54,906 - ME modelNone - DEBUG - Added variable: KO_RPI
+2021-01-12 14:58:54,906 - ME modelNone - DEBUG - Added variable: KO_SUCCt2_2
+2021-01-12 14:58:54,907 - ME modelNone - DEBUG - Added variable: KO_CYTBD
+2021-01-12 14:58:54,907 - ME modelNone - DEBUG - Added variable: KO_D_LACt2
+2021-01-12 14:58:54,908 - ME modelNone - DEBUG - Added variable: KO_ENO
+2021-01-12 14:58:54,908 - ME modelNone - DEBUG - Added variable: KO_SUCCt3
+2021-01-12 14:58:54,909 - ME modelNone - DEBUG - Added variable: KO_ETOHt2r
+2021-01-12 14:58:54,909 - ME modelNone - DEBUG - Added variable: KO_SUCDi
+2021-01-12 14:58:54,909 - ME modelNone - DEBUG - Added variable: KO_SUCOAS
+2021-01-12 14:58:54,910 - ME modelNone - DEBUG - Added variable: KO_TALA
+2021-01-12 14:58:54,910 - ME modelNone - DEBUG - Added variable: KO_THD2
+2021-01-12 14:58:54,911 - ME modelNone - DEBUG - Added variable: KO_TKT1
+2021-01-12 14:58:54,911 - ME modelNone - DEBUG - Added variable: KO_TKT2
+2021-01-12 14:58:54,912 - ME modelNone - DEBUG - Added variable: KO_TPI
+2021-01-12 14:58:54,912 - ME modelNone - DEBUG - Added variable: KO_EX_ac_e
+2021-01-12 14:58:54,912 - ME modelNone - DEBUG - Added variable: KO_EX_acald_e
+2021-01-12 14:58:54,913 - ME modelNone - DEBUG - Added variable: KO_EX_akg_e
+2021-01-12 14:58:54,913 - ME modelNone - DEBUG - Added variable: KO_EX_co2_e
+2021-01-12 14:58:54,914 - ME modelNone - DEBUG - Added variable: KO_EX_etoh_e
+2021-01-12 14:58:54,914 - ME modelNone - DEBUG - Added variable: KO_EX_for_e
+2021-01-12 14:58:54,915 - ME modelNone - DEBUG - Added variable: KO_EX_glc__D_e
+2021-01-12 14:58:54,915 - ME modelNone - DEBUG - Added variable: KO_EX_glu__L_e
+2021-01-12 14:58:54,915 - ME modelNone - DEBUG - Added variable: KO_EX_h_e
+2021-01-12 14:58:54,916 - ME modelNone - DEBUG - Added variable: KO_EX_h2o_e
+2021-01-12 14:58:54,916 - ME modelNone - DEBUG - Added variable: KO_EX_lac__D_e
+2021-01-12 14:58:54,917 - ME modelNone - DEBUG - Added variable: KO_EX_nh4_e
+2021-01-12 14:58:54,917 - ME modelNone - DEBUG - Added variable: KO_EX_o2_e
+2021-01-12 14:58:54,918 - ME modelNone - DEBUG - Added variable: KO_EX_pi_e
+2021-01-12 14:58:54,918 - ME modelNone - DEBUG - Added variable: KO_EX_pyr_e
+2021-01-12 14:58:54,918 - ME modelNone - DEBUG - Added variable: KO_EX_succ_e
+2021-01-12 14:58:54,919 - ME modelNone - DEBUG - Added variable: KO_FBA
+2021-01-12 14:58:54,919 - ME modelNone - DEBUG - Added variable: KO_FBP
+2021-01-12 14:58:54,920 - ME modelNone - DEBUG - Added variable: KO_FORt2
+2021-01-12 14:58:54,920 - ME modelNone - DEBUG - Added variable: KO_FORt
+2021-01-12 14:58:54,921 - ME modelNone - DEBUG - Added variable: KO_FRD7
+2021-01-12 14:58:54,921 - ME modelNone - DEBUG - Added variable: KO_FUM
+2021-01-12 14:58:54,922 - ME modelNone - DEBUG - Added variable: KO_G6PDH2r
+2021-01-12 14:58:54,922 - ME modelNone - DEBUG - Added variable: KO_GAPD
+2021-01-12 14:58:54,922 - ME modelNone - DEBUG - Added variable: KO_GLCpts
+2021-01-12 14:58:54,923 - ME modelNone - DEBUG - Added variable: KO_GLNS
+2021-01-12 14:58:54,923 - ME modelNone - DEBUG - Added variable: KO_GLUDy
+2021-01-12 14:58:54,924 - ME modelNone - DEBUG - Added variable: KO_GLUN
+2021-01-12 14:58:54,924 - ME modelNone - DEBUG - Added variable: KO_GLUSy
+2021-01-12 14:58:54,924 - ME modelNone - DEBUG - Added variable: KO_GLUt2r
+2021-01-12 14:58:54,925 - ME modelNone - DEBUG - Added variable: KO_GND
+2021-01-12 14:58:54,925 - ME modelNone - DEBUG - Added variable: KO_H2Ot
+2021-01-12 14:58:54,926 - ME modelNone - DEBUG - Added variable: KO_ICDHyr
+2021-01-12 14:58:54,926 - ME modelNone - DEBUG - Added variable: KO_ICL
+2021-01-12 14:58:54,927 - ME modelNone - DEBUG - Added variable: KO_LDH_D
+2021-01-12 14:58:54,927 - ME modelNone - DEBUG - Added variable: KO_MALS
+2021-01-12 14:58:54,928 - ME modelNone - DEBUG - Added variable: KO_MDH
+2021-01-12 14:58:54,928 - ME modelNone - DEBUG - Added variable: KO_ME1
+2021-01-12 14:58:54,928 - ME modelNone - DEBUG - Added variable: KO_ME2
+2021-01-12 14:58:54,929 - ME modelNone - DEBUG - Added variable: KO_NADH16
+2021-01-12 14:58:54,929 - ME modelNone - DEBUG - Added variable: KO_NADTRHD
+2021-01-12 14:58:54,930 - ME modelNone - DEBUG - Added variable: KO_NH4t
+2021-01-12 14:58:54,930 - ME modelNone - DEBUG - Added variable: KO_O2t
+2021-01-12 14:58:54,931 - ME modelNone - DEBUG - Added variable: KO_PDH
+2021-01-12 14:58:54,932 - ME modelNone - DEBUG - Added constraint: UKF_PFK
+2021-01-12 14:58:54,932 - ME modelNone - DEBUG - Added constraint: UKI_PFK
+2021-01-12 14:58:54,933 - ME modelNone - DEBUG - Added constraint: UKF_PFL
+2021-01-12 14:58:54,934 - ME modelNone - DEBUG - Added constraint: UKI_PFL
+2021-01-12 14:58:54,935 - ME modelNone - DEBUG - Added constraint: UKF_PGI
+2021-01-12 14:58:54,935 - ME modelNone - DEBUG - Added constraint: UKI_PGI
+2021-01-12 14:58:54,936 - ME modelNone - DEBUG - Added constraint: UKF_PGK
+2021-01-12 14:58:54,936 - ME modelNone - DEBUG - Added constraint: UKI_PGK
+2021-01-12 14:58:54,937 - ME modelNone - DEBUG - Added constraint: UKF_PGL
+2021-01-12 14:58:54,938 - ME modelNone - DEBUG - Added constraint: UKI_PGL
+2021-01-12 14:58:54,938 - ME modelNone - DEBUG - Added constraint: UKF_ACALD
+2021-01-12 14:58:54,939 - ME modelNone - DEBUG - Added constraint: UKI_ACALD
+2021-01-12 14:58:54,940 - ME modelNone - DEBUG - Added constraint: UKF_AKGt2r
+2021-01-12 14:58:54,940 - ME modelNone - DEBUG - Added constraint: UKI_AKGt2r
+2021-01-12 14:58:54,941 - ME modelNone - DEBUG - Added constraint: UKF_PGM
+2021-01-12 14:58:54,941 - ME modelNone - DEBUG - Added constraint: UKI_PGM
+2021-01-12 14:58:54,942 - ME modelNone - DEBUG - Added constraint: UKF_PIt2r
+2021-01-12 14:58:54,943 - ME modelNone - DEBUG - Added constraint: UKI_PIt2r
+2021-01-12 14:58:54,944 - ME modelNone - DEBUG - Added constraint: UKF_ALCD2x
+2021-01-12 14:58:54,944 - ME modelNone - DEBUG - Added constraint: UKI_ALCD2x
+2021-01-12 14:58:54,945 - ME modelNone - DEBUG - Added constraint: UKF_ACALDt
+2021-01-12 14:58:54,945 - ME modelNone - DEBUG - Added constraint: UKI_ACALDt
+2021-01-12 14:58:54,946 - ME modelNone - DEBUG - Added constraint: UKF_ACKr
+2021-01-12 14:58:54,947 - ME modelNone - DEBUG - Added constraint: UKI_ACKr
+2021-01-12 14:58:54,948 - ME modelNone - DEBUG - Added constraint: UKF_PPC
+2021-01-12 14:58:54,948 - ME modelNone - DEBUG - Added constraint: UKI_PPC
+2021-01-12 14:58:54,949 - ME modelNone - DEBUG - Added constraint: UKF_ACONTa
+2021-01-12 14:58:54,950 - ME modelNone - DEBUG - Added constraint: UKI_ACONTa
+2021-01-12 14:58:54,951 - ME modelNone - DEBUG - Added constraint: UKF_ACONTb
+2021-01-12 14:58:54,951 - ME modelNone - DEBUG - Added constraint: UKI_ACONTb
+2021-01-12 14:58:54,952 - ME modelNone - DEBUG - Added constraint: UKF_ATPM
+2021-01-12 14:58:54,952 - ME modelNone - DEBUG - Added constraint: UKI_ATPM
+2021-01-12 14:58:54,953 - ME modelNone - DEBUG - Added constraint: UKF_PPCK
+2021-01-12 14:58:54,954 - ME modelNone - DEBUG - Added constraint: UKI_PPCK
+2021-01-12 14:58:54,954 - ME modelNone - DEBUG - Added constraint: UKF_ACt2r
+2021-01-12 14:58:54,956 - ME modelNone - DEBUG - Added constraint: UKI_ACt2r
+2021-01-12 14:58:54,957 - ME modelNone - DEBUG - Added constraint: UKF_PPS
+2021-01-12 14:58:54,957 - ME modelNone - DEBUG - Added constraint: UKI_PPS
+2021-01-12 14:58:54,958 - ME modelNone - DEBUG - Added constraint: UKF_ADK1
+2021-01-12 14:58:54,959 - ME modelNone - DEBUG - Added constraint: UKI_ADK1
+2021-01-12 14:58:54,959 - ME modelNone - DEBUG - Added constraint: UKF_AKGDH
+2021-01-12 14:58:54,960 - ME modelNone - DEBUG - Added constraint: UKI_AKGDH
+2021-01-12 14:58:54,961 - ME modelNone - DEBUG - Added constraint: UKF_ATPS4r
+2021-01-12 14:58:54,962 - ME modelNone - DEBUG - Added constraint: UKI_ATPS4r
+2021-01-12 14:58:54,962 - ME modelNone - DEBUG - Added constraint: UKF_PTAr
+2021-01-12 14:58:54,963 - ME modelNone - DEBUG - Added constraint: UKI_PTAr
+2021-01-12 14:58:54,964 - ME modelNone - DEBUG - Added constraint: UKF_PYK
+2021-01-12 14:58:54,964 - ME modelNone - DEBUG - Added constraint: UKI_PYK
+2021-01-12 14:58:54,965 - ME modelNone - DEBUG - Added constraint: UKF_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:54,966 - ME modelNone - DEBUG - Added constraint: UKI_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:54,966 - ME modelNone - DEBUG - Added constraint: UKF_PYRt2
+2021-01-12 14:58:54,967 - ME modelNone - DEBUG - Added constraint: UKI_PYRt2
+2021-01-12 14:58:54,968 - ME modelNone - DEBUG - Added constraint: UKF_CO2t
+2021-01-12 14:58:54,968 - ME modelNone - DEBUG - Added constraint: UKI_CO2t
+2021-01-12 14:58:54,969 - ME modelNone - DEBUG - Added constraint: UKF_RPE
+2021-01-12 14:58:54,970 - ME modelNone - DEBUG - Added constraint: UKI_RPE
+2021-01-12 14:58:54,970 - ME modelNone - DEBUG - Added constraint: UKF_CS
+2021-01-12 14:58:54,971 - ME modelNone - DEBUG - Added constraint: UKI_CS
+2021-01-12 14:58:54,972 - ME modelNone - DEBUG - Added constraint: UKF_RPI
+2021-01-12 14:58:54,972 - ME modelNone - DEBUG - Added constraint: UKI_RPI
+2021-01-12 14:58:54,973 - ME modelNone - DEBUG - Added constraint: UKF_SUCCt2_2
+2021-01-12 14:58:54,974 - ME modelNone - DEBUG - Added constraint: UKI_SUCCt2_2
+2021-01-12 14:58:54,974 - ME modelNone - DEBUG - Added constraint: UKF_CYTBD
+2021-01-12 14:58:54,975 - ME modelNone - DEBUG - Added constraint: UKI_CYTBD
+2021-01-12 14:58:54,976 - ME modelNone - DEBUG - Added constraint: UKF_D_LACt2
+2021-01-12 14:58:54,976 - ME modelNone - DEBUG - Added constraint: UKI_D_LACt2
+2021-01-12 14:58:54,977 - ME modelNone - DEBUG - Added constraint: UKF_ENO
+2021-01-12 14:58:54,978 - ME modelNone - DEBUG - Added constraint: UKI_ENO
+2021-01-12 14:58:54,979 - ME modelNone - DEBUG - Added constraint: UKF_SUCCt3
+2021-01-12 14:58:54,979 - ME modelNone - DEBUG - Added constraint: UKI_SUCCt3
+2021-01-12 14:58:54,980 - ME modelNone - DEBUG - Added constraint: UKF_ETOHt2r
+2021-01-12 14:58:54,981 - ME modelNone - DEBUG - Added constraint: UKI_ETOHt2r
+2021-01-12 14:58:54,981 - ME modelNone - DEBUG - Added constraint: UKF_SUCDi
+2021-01-12 14:58:54,982 - ME modelNone - DEBUG - Added constraint: UKI_SUCDi
+2021-01-12 14:58:54,983 - ME modelNone - DEBUG - Added constraint: UKF_SUCOAS
+2021-01-12 14:58:54,983 - ME modelNone - DEBUG - Added constraint: UKI_SUCOAS
+2021-01-12 14:58:54,984 - ME modelNone - DEBUG - Added constraint: UKF_TALA
+2021-01-12 14:58:54,985 - ME modelNone - DEBUG - Added constraint: UKI_TALA
+2021-01-12 14:58:54,986 - ME modelNone - DEBUG - Added constraint: UKF_THD2
+2021-01-12 14:58:54,986 - ME modelNone - DEBUG - Added constraint: UKI_THD2
+2021-01-12 14:58:54,987 - ME modelNone - DEBUG - Added constraint: UKF_TKT1
+2021-01-12 14:58:54,988 - ME modelNone - DEBUG - Added constraint: UKI_TKT1
+2021-01-12 14:58:54,989 - ME modelNone - DEBUG - Added constraint: UKF_TKT2
+2021-01-12 14:58:54,989 - ME modelNone - DEBUG - Added constraint: UKI_TKT2
+2021-01-12 14:58:54,990 - ME modelNone - DEBUG - Added constraint: UKF_TPI
+2021-01-12 14:58:54,990 - ME modelNone - DEBUG - Added constraint: UKI_TPI
+2021-01-12 14:58:54,991 - ME modelNone - DEBUG - Added constraint: UKF_EX_ac_e
+2021-01-12 14:58:54,992 - ME modelNone - DEBUG - Added constraint: UKI_EX_ac_e
+2021-01-12 14:58:54,993 - ME modelNone - DEBUG - Added constraint: UKF_EX_acald_e
+2021-01-12 14:58:54,993 - ME modelNone - DEBUG - Added constraint: UKI_EX_acald_e
+2021-01-12 14:58:54,994 - ME modelNone - DEBUG - Added constraint: UKF_EX_akg_e
+2021-01-12 14:58:54,995 - ME modelNone - DEBUG - Added constraint: UKI_EX_akg_e
+2021-01-12 14:58:54,995 - ME modelNone - DEBUG - Added constraint: UKF_EX_co2_e
+2021-01-12 14:58:54,996 - ME modelNone - DEBUG - Added constraint: UKI_EX_co2_e
+2021-01-12 14:58:54,997 - ME modelNone - DEBUG - Added constraint: UKF_EX_etoh_e
+2021-01-12 14:58:54,997 - ME modelNone - DEBUG - Added constraint: UKI_EX_etoh_e
+2021-01-12 14:58:54,998 - ME modelNone - DEBUG - Added constraint: UKF_EX_for_e
+2021-01-12 14:58:54,999 - ME modelNone - DEBUG - Added constraint: UKI_EX_for_e
+2021-01-12 14:58:54,999 - ME modelNone - DEBUG - Added constraint: UKF_EX_glc__D_e
+2021-01-12 14:58:55,000 - ME modelNone - DEBUG - Added constraint: UKI_EX_glc__D_e
+2021-01-12 14:58:55,001 - ME modelNone - DEBUG - Added constraint: UKF_EX_glu__L_e
+2021-01-12 14:58:55,001 - ME modelNone - DEBUG - Added constraint: UKI_EX_glu__L_e
+2021-01-12 14:58:55,002 - ME modelNone - DEBUG - Added constraint: UKF_EX_h_e
+2021-01-12 14:58:55,003 - ME modelNone - DEBUG - Added constraint: UKI_EX_h_e
+2021-01-12 14:58:55,004 - ME modelNone - DEBUG - Added constraint: UKF_EX_h2o_e
+2021-01-12 14:58:55,004 - ME modelNone - DEBUG - Added constraint: UKI_EX_h2o_e
+2021-01-12 14:58:55,005 - ME modelNone - DEBUG - Added constraint: UKF_EX_lac__D_e
+2021-01-12 14:58:55,006 - ME modelNone - DEBUG - Added constraint: UKI_EX_lac__D_e
+2021-01-12 14:58:55,007 - ME modelNone - DEBUG - Added constraint: UKF_EX_nh4_e
+2021-01-12 14:58:55,007 - ME modelNone - DEBUG - Added constraint: UKI_EX_nh4_e
+2021-01-12 14:58:55,008 - ME modelNone - DEBUG - Added constraint: UKF_EX_o2_e
+2021-01-12 14:58:55,008 - ME modelNone - DEBUG - Added constraint: UKI_EX_o2_e
+2021-01-12 14:58:55,009 - ME modelNone - DEBUG - Added constraint: UKF_EX_pi_e
+2021-01-12 14:58:55,010 - ME modelNone - DEBUG - Added constraint: UKI_EX_pi_e
+2021-01-12 14:58:55,010 - ME modelNone - DEBUG - Added constraint: UKF_EX_pyr_e
+2021-01-12 14:58:55,011 - ME modelNone - DEBUG - Added constraint: UKI_EX_pyr_e
+2021-01-12 14:58:55,012 - ME modelNone - DEBUG - Added constraint: UKF_EX_succ_e
+2021-01-12 14:58:55,012 - ME modelNone - DEBUG - Added constraint: UKI_EX_succ_e
+2021-01-12 14:58:55,013 - ME modelNone - DEBUG - Added constraint: UKF_FBA
+2021-01-12 14:58:55,013 - ME modelNone - DEBUG - Added constraint: UKI_FBA
+2021-01-12 14:58:55,014 - ME modelNone - DEBUG - Added constraint: UKF_FBP
+2021-01-12 14:58:55,015 - ME modelNone - DEBUG - Added constraint: UKI_FBP
+2021-01-12 14:58:55,016 - ME modelNone - DEBUG - Added constraint: UKF_FORt2
+2021-01-12 14:58:55,016 - ME modelNone - DEBUG - Added constraint: UKI_FORt2
+2021-01-12 14:58:55,017 - ME modelNone - DEBUG - Added constraint: UKF_FORt
+2021-01-12 14:58:55,018 - ME modelNone - DEBUG - Added constraint: UKI_FORt
+2021-01-12 14:58:55,020 - ME modelNone - DEBUG - Added constraint: UKF_FRD7
+2021-01-12 14:58:55,021 - ME modelNone - DEBUG - Added constraint: UKI_FRD7
+2021-01-12 14:58:55,021 - ME modelNone - DEBUG - Added constraint: UKF_FUM
+2021-01-12 14:58:55,022 - ME modelNone - DEBUG - Added constraint: UKI_FUM
+2021-01-12 14:58:55,023 - ME modelNone - DEBUG - Added constraint: UKF_G6PDH2r
+2021-01-12 14:58:55,023 - ME modelNone - DEBUG - Added constraint: UKI_G6PDH2r
+2021-01-12 14:58:55,026 - ME modelNone - DEBUG - Added constraint: UKF_GAPD
+2021-01-12 14:58:55,026 - ME modelNone - DEBUG - Added constraint: UKI_GAPD
+2021-01-12 14:58:55,027 - ME modelNone - DEBUG - Added constraint: UKF_GLCpts
+2021-01-12 14:58:55,028 - ME modelNone - DEBUG - Added constraint: UKI_GLCpts
+2021-01-12 14:58:55,028 - ME modelNone - DEBUG - Added constraint: UKF_GLNS
+2021-01-12 14:58:55,029 - ME modelNone - DEBUG - Added constraint: UKI_GLNS
+2021-01-12 14:58:55,030 - ME modelNone - DEBUG - Added constraint: UKF_GLUDy
+2021-01-12 14:58:55,030 - ME modelNone - DEBUG - Added constraint: UKI_GLUDy
+2021-01-12 14:58:55,031 - ME modelNone - DEBUG - Added constraint: UKF_GLUN
+2021-01-12 14:58:55,032 - ME modelNone - DEBUG - Added constraint: UKI_GLUN
+2021-01-12 14:58:55,033 - ME modelNone - DEBUG - Added constraint: UKF_GLUSy
+2021-01-12 14:58:55,033 - ME modelNone - DEBUG - Added constraint: UKI_GLUSy
+2021-01-12 14:58:55,034 - ME modelNone - DEBUG - Added constraint: UKF_GLUt2r
+2021-01-12 14:58:55,035 - ME modelNone - DEBUG - Added constraint: UKI_GLUt2r
+2021-01-12 14:58:55,035 - ME modelNone - DEBUG - Added constraint: UKF_GND
+2021-01-12 14:58:55,036 - ME modelNone - DEBUG - Added constraint: UKI_GND
+2021-01-12 14:58:55,037 - ME modelNone - DEBUG - Added constraint: UKF_H2Ot
+2021-01-12 14:58:55,037 - ME modelNone - DEBUG - Added constraint: UKI_H2Ot
+2021-01-12 14:58:55,038 - ME modelNone - DEBUG - Added constraint: UKF_ICDHyr
+2021-01-12 14:58:55,039 - ME modelNone - DEBUG - Added constraint: UKI_ICDHyr
+2021-01-12 14:58:55,039 - ME modelNone - DEBUG - Added constraint: UKF_ICL
+2021-01-12 14:58:55,040 - ME modelNone - DEBUG - Added constraint: UKI_ICL
+2021-01-12 14:58:55,041 - ME modelNone - DEBUG - Added constraint: UKF_LDH_D
+2021-01-12 14:58:55,041 - ME modelNone - DEBUG - Added constraint: UKI_LDH_D
+2021-01-12 14:58:55,042 - ME modelNone - DEBUG - Added constraint: UKF_MALS
+2021-01-12 14:58:55,042 - ME modelNone - DEBUG - Added constraint: UKI_MALS
+2021-01-12 14:58:55,043 - ME modelNone - DEBUG - Added constraint: UKF_MDH
+2021-01-12 14:58:55,044 - ME modelNone - DEBUG - Added constraint: UKI_MDH
+2021-01-12 14:58:55,044 - ME modelNone - DEBUG - Added constraint: UKF_ME1
+2021-01-12 14:58:55,045 - ME modelNone - DEBUG - Added constraint: UKI_ME1
+2021-01-12 14:58:55,046 - ME modelNone - DEBUG - Added constraint: UKF_ME2
+2021-01-12 14:58:55,046 - ME modelNone - DEBUG - Added constraint: UKI_ME2
+2021-01-12 14:58:55,047 - ME modelNone - DEBUG - Added constraint: UKF_NADH16
+2021-01-12 14:58:55,048 - ME modelNone - DEBUG - Added constraint: UKI_NADH16
+2021-01-12 14:58:55,049 - ME modelNone - DEBUG - Added constraint: UKF_NADTRHD
+2021-01-12 14:58:55,049 - ME modelNone - DEBUG - Added constraint: UKI_NADTRHD
+2021-01-12 14:58:55,050 - ME modelNone - DEBUG - Added constraint: UKF_NH4t
+2021-01-12 14:58:55,051 - ME modelNone - DEBUG - Added constraint: UKI_NH4t
+2021-01-12 14:58:55,051 - ME modelNone - DEBUG - Added constraint: UKF_O2t
+2021-01-12 14:58:55,052 - ME modelNone - DEBUG - Added constraint: UKI_O2t
+2021-01-12 14:58:55,053 - ME modelNone - DEBUG - Added constraint: UKF_PDH
+2021-01-12 14:58:55,053 - ME modelNone - DEBUG - Added constraint: UKI_PDH
+2021-01-12 14:58:55,151 - ME modelNone - WARNING - Cofactor pair atp_c/adp_c is equimolar in reaction BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,151 - ME modelNone - WARNING - Cofactor pair nad_c/nadh_c is equimolar in reaction BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,151 - ME modelNone - WARNING - Cofactor pair nadp_c/nadph_c is equimolar in reaction BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,152 - ME modelNone - WARNING - Cofactor pair accoa_c/coa_c is equimolar in reaction BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,168 - ME modelNone - INFO - # Model conversion starting...
+2021-01-12 14:58:55,169 - ME modelNone - DEBUG - Added variable: FU_PFK
+2021-01-12 14:58:55,169 - ME modelNone - DEBUG - Added variable: BU_PFK
+2021-01-12 14:58:55,169 - ME modelNone - DEBUG - Added constraint: SU_PFK
+2021-01-12 14:58:55,170 - ME modelNone - DEBUG - Added constraint: UF_PFK
+2021-01-12 14:58:55,171 - ME modelNone - DEBUG - Added constraint: UR_PFK
+2021-01-12 14:58:55,171 - ME modelNone - DEBUG - Added variable: FU_PFL
+2021-01-12 14:58:55,171 - ME modelNone - DEBUG - Added variable: BU_PFL
+2021-01-12 14:58:55,171 - ME modelNone - DEBUG - Added constraint: SU_PFL
+2021-01-12 14:58:55,172 - ME modelNone - DEBUG - Added constraint: UF_PFL
+2021-01-12 14:58:55,172 - ME modelNone - DEBUG - Added constraint: UR_PFL
+2021-01-12 14:58:55,173 - ME modelNone - DEBUG - Added variable: FU_PGI
+2021-01-12 14:58:55,173 - ME modelNone - DEBUG - Added variable: BU_PGI
+2021-01-12 14:58:55,173 - ME modelNone - DEBUG - Added constraint: SU_PGI
+2021-01-12 14:58:55,174 - ME modelNone - DEBUG - Added constraint: UF_PGI
+2021-01-12 14:58:55,174 - ME modelNone - DEBUG - Added constraint: UR_PGI
+2021-01-12 14:58:55,174 - ME modelNone - DEBUG - Added variable: FU_PGK
+2021-01-12 14:58:55,175 - ME modelNone - DEBUG - Added variable: BU_PGK
+2021-01-12 14:58:55,175 - ME modelNone - DEBUG - Added constraint: SU_PGK
+2021-01-12 14:58:55,175 - ME modelNone - DEBUG - Added constraint: UF_PGK
+2021-01-12 14:58:55,176 - ME modelNone - DEBUG - Added constraint: UR_PGK
+2021-01-12 14:58:55,176 - ME modelNone - DEBUG - Added variable: FU_PGL
+2021-01-12 14:58:55,176 - ME modelNone - DEBUG - Added variable: BU_PGL
+2021-01-12 14:58:55,177 - ME modelNone - DEBUG - Added constraint: SU_PGL
+2021-01-12 14:58:55,177 - ME modelNone - DEBUG - Added constraint: UF_PGL
+2021-01-12 14:58:55,178 - ME modelNone - DEBUG - Added constraint: UR_PGL
+2021-01-12 14:58:55,178 - ME modelNone - DEBUG - Added variable: FU_ACALD
+2021-01-12 14:58:55,178 - ME modelNone - DEBUG - Added variable: BU_ACALD
+2021-01-12 14:58:55,178 - ME modelNone - DEBUG - Added constraint: SU_ACALD
+2021-01-12 14:58:55,179 - ME modelNone - DEBUG - Added constraint: UF_ACALD
+2021-01-12 14:58:55,180 - ME modelNone - DEBUG - Added constraint: UR_ACALD
+2021-01-12 14:58:55,180 - ME modelNone - DEBUG - Added variable: FU_AKGt2r
+2021-01-12 14:58:55,180 - ME modelNone - DEBUG - Added variable: BU_AKGt2r
+2021-01-12 14:58:55,180 - ME modelNone - DEBUG - Added constraint: SU_AKGt2r
+2021-01-12 14:58:55,181 - ME modelNone - DEBUG - Added constraint: UF_AKGt2r
+2021-01-12 14:58:55,182 - ME modelNone - DEBUG - Added constraint: UR_AKGt2r
+2021-01-12 14:58:55,182 - ME modelNone - DEBUG - Added variable: FU_PGM
+2021-01-12 14:58:55,182 - ME modelNone - DEBUG - Added variable: BU_PGM
+2021-01-12 14:58:55,182 - ME modelNone - DEBUG - Added constraint: SU_PGM
+2021-01-12 14:58:55,183 - ME modelNone - DEBUG - Added constraint: UF_PGM
+2021-01-12 14:58:55,184 - ME modelNone - DEBUG - Added constraint: UR_PGM
+2021-01-12 14:58:55,184 - ME modelNone - DEBUG - Added variable: FU_PIt2r
+2021-01-12 14:58:55,184 - ME modelNone - DEBUG - Added variable: BU_PIt2r
+2021-01-12 14:58:55,184 - ME modelNone - DEBUG - Added constraint: SU_PIt2r
+2021-01-12 14:58:55,185 - ME modelNone - DEBUG - Added constraint: UF_PIt2r
+2021-01-12 14:58:55,185 - ME modelNone - DEBUG - Added constraint: UR_PIt2r
+2021-01-12 14:58:55,186 - ME modelNone - DEBUG - Added variable: FU_ALCD2x
+2021-01-12 14:58:55,186 - ME modelNone - DEBUG - Added variable: BU_ALCD2x
+2021-01-12 14:58:55,186 - ME modelNone - DEBUG - Added constraint: SU_ALCD2x
+2021-01-12 14:58:55,187 - ME modelNone - DEBUG - Added constraint: UF_ALCD2x
+2021-01-12 14:58:55,188 - ME modelNone - DEBUG - Added constraint: UR_ALCD2x
+2021-01-12 14:58:55,188 - ME modelNone - DEBUG - Added variable: FU_ACALDt
+2021-01-12 14:58:55,189 - ME modelNone - DEBUG - Added variable: BU_ACALDt
+2021-01-12 14:58:55,189 - ME modelNone - DEBUG - Added constraint: SU_ACALDt
+2021-01-12 14:58:55,189 - ME modelNone - DEBUG - Added constraint: UF_ACALDt
+2021-01-12 14:58:55,190 - ME modelNone - DEBUG - Added constraint: UR_ACALDt
+2021-01-12 14:58:55,190 - ME modelNone - DEBUG - Added variable: FU_ACKr
+2021-01-12 14:58:55,191 - ME modelNone - DEBUG - Added variable: BU_ACKr
+2021-01-12 14:58:55,191 - ME modelNone - DEBUG - Added constraint: SU_ACKr
+2021-01-12 14:58:55,191 - ME modelNone - DEBUG - Added constraint: UF_ACKr
+2021-01-12 14:58:55,192 - ME modelNone - DEBUG - Added constraint: UR_ACKr
+2021-01-12 14:58:55,192 - ME modelNone - DEBUG - Added variable: FU_PPC
+2021-01-12 14:58:55,192 - ME modelNone - DEBUG - Added variable: BU_PPC
+2021-01-12 14:58:55,193 - ME modelNone - DEBUG - Added constraint: SU_PPC
+2021-01-12 14:58:55,193 - ME modelNone - DEBUG - Added constraint: UF_PPC
+2021-01-12 14:58:55,194 - ME modelNone - DEBUG - Added constraint: UR_PPC
+2021-01-12 14:58:55,194 - ME modelNone - DEBUG - Added variable: FU_ACONTa
+2021-01-12 14:58:55,194 - ME modelNone - DEBUG - Added variable: BU_ACONTa
+2021-01-12 14:58:55,194 - ME modelNone - DEBUG - Added constraint: SU_ACONTa
+2021-01-12 14:58:55,195 - ME modelNone - DEBUG - Added constraint: UF_ACONTa
+2021-01-12 14:58:55,196 - ME modelNone - DEBUG - Added constraint: UR_ACONTa
+2021-01-12 14:58:55,196 - ME modelNone - DEBUG - Added variable: FU_ACONTb
+2021-01-12 14:58:55,196 - ME modelNone - DEBUG - Added variable: BU_ACONTb
+2021-01-12 14:58:55,196 - ME modelNone - DEBUG - Added constraint: SU_ACONTb
+2021-01-12 14:58:55,197 - ME modelNone - DEBUG - Added constraint: UF_ACONTb
+2021-01-12 14:58:55,198 - ME modelNone - DEBUG - Added constraint: UR_ACONTb
+2021-01-12 14:58:55,198 - ME modelNone - DEBUG - Added variable: FU_ATPM
+2021-01-12 14:58:55,198 - ME modelNone - DEBUG - Added variable: BU_ATPM
+2021-01-12 14:58:55,198 - ME modelNone - DEBUG - Added constraint: SU_ATPM
+2021-01-12 14:58:55,199 - ME modelNone - DEBUG - Added constraint: UF_ATPM
+2021-01-12 14:58:55,199 - ME modelNone - DEBUG - Added constraint: UR_ATPM
+2021-01-12 14:58:55,200 - ME modelNone - DEBUG - Added variable: FU_PPCK
+2021-01-12 14:58:55,200 - ME modelNone - DEBUG - Added variable: BU_PPCK
+2021-01-12 14:58:55,200 - ME modelNone - DEBUG - Added constraint: SU_PPCK
+2021-01-12 14:58:55,200 - ME modelNone - DEBUG - Added constraint: UF_PPCK
+2021-01-12 14:58:55,201 - ME modelNone - DEBUG - Added constraint: UR_PPCK
+2021-01-12 14:58:55,201 - ME modelNone - DEBUG - Added variable: FU_ACt2r
+2021-01-12 14:58:55,202 - ME modelNone - DEBUG - Added variable: BU_ACt2r
+2021-01-12 14:58:55,202 - ME modelNone - DEBUG - Added constraint: SU_ACt2r
+2021-01-12 14:58:55,202 - ME modelNone - DEBUG - Added constraint: UF_ACt2r
+2021-01-12 14:58:55,203 - ME modelNone - DEBUG - Added constraint: UR_ACt2r
+2021-01-12 14:58:55,203 - ME modelNone - DEBUG - Added variable: FU_PPS
+2021-01-12 14:58:55,203 - ME modelNone - DEBUG - Added variable: BU_PPS
+2021-01-12 14:58:55,204 - ME modelNone - DEBUG - Added constraint: SU_PPS
+2021-01-12 14:58:55,204 - ME modelNone - DEBUG - Added constraint: UF_PPS
+2021-01-12 14:58:55,205 - ME modelNone - DEBUG - Added constraint: UR_PPS
+2021-01-12 14:58:55,205 - ME modelNone - DEBUG - Added variable: FU_ADK1
+2021-01-12 14:58:55,205 - ME modelNone - DEBUG - Added variable: BU_ADK1
+2021-01-12 14:58:55,205 - ME modelNone - DEBUG - Added constraint: SU_ADK1
+2021-01-12 14:58:55,206 - ME modelNone - DEBUG - Added constraint: UF_ADK1
+2021-01-12 14:58:55,206 - ME modelNone - DEBUG - Added constraint: UR_ADK1
+2021-01-12 14:58:55,207 - ME modelNone - DEBUG - Added variable: FU_AKGDH
+2021-01-12 14:58:55,207 - ME modelNone - DEBUG - Added variable: BU_AKGDH
+2021-01-12 14:58:55,207 - ME modelNone - DEBUG - Added constraint: SU_AKGDH
+2021-01-12 14:58:55,208 - ME modelNone - DEBUG - Added constraint: UF_AKGDH
+2021-01-12 14:58:55,208 - ME modelNone - DEBUG - Added constraint: UR_AKGDH
+2021-01-12 14:58:55,208 - ME modelNone - DEBUG - Added variable: FU_ATPS4r
+2021-01-12 14:58:55,209 - ME modelNone - DEBUG - Added variable: BU_ATPS4r
+2021-01-12 14:58:55,209 - ME modelNone - DEBUG - Added constraint: SU_ATPS4r
+2021-01-12 14:58:55,209 - ME modelNone - DEBUG - Added constraint: UF_ATPS4r
+2021-01-12 14:58:55,210 - ME modelNone - DEBUG - Added constraint: UR_ATPS4r
+2021-01-12 14:58:55,210 - ME modelNone - DEBUG - Added variable: FU_PTAr
+2021-01-12 14:58:55,210 - ME modelNone - DEBUG - Added variable: BU_PTAr
+2021-01-12 14:58:55,210 - ME modelNone - DEBUG - Added constraint: SU_PTAr
+2021-01-12 14:58:55,211 - ME modelNone - DEBUG - Added constraint: UF_PTAr
+2021-01-12 14:58:55,212 - ME modelNone - DEBUG - Added constraint: UR_PTAr
+2021-01-12 14:58:55,212 - ME modelNone - DEBUG - Added variable: FU_PYK
+2021-01-12 14:58:55,212 - ME modelNone - DEBUG - Added variable: BU_PYK
+2021-01-12 14:58:55,212 - ME modelNone - DEBUG - Added constraint: SU_PYK
+2021-01-12 14:58:55,213 - ME modelNone - DEBUG - Added constraint: UF_PYK
+2021-01-12 14:58:55,213 - ME modelNone - DEBUG - Added constraint: UR_PYK
+2021-01-12 14:58:55,214 - ME modelNone - DEBUG - Added variable: FU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,214 - ME modelNone - DEBUG - Added variable: BU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,214 - ME modelNone - DEBUG - Added constraint: SU_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,215 - ME modelNone - DEBUG - Added constraint: UF_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,215 - ME modelNone - DEBUG - Added constraint: UR_BIOMASS_Ecoli_core_w_GAM
+2021-01-12 14:58:55,215 - ME modelNone - DEBUG - Added variable: FU_PYRt2
+2021-01-12 14:58:55,216 - ME modelNone - DEBUG - Added variable: BU_PYRt2
+2021-01-12 14:58:55,216 - ME modelNone - DEBUG - Added constraint: SU_PYRt2
+2021-01-12 14:58:55,216 - ME modelNone - DEBUG - Added constraint: UF_PYRt2
+2021-01-12 14:58:55,217 - ME modelNone - DEBUG - Added constraint: UR_PYRt2
+2021-01-12 14:58:55,217 - ME modelNone - DEBUG - Added variable: FU_CO2t
+2021-01-12 14:58:55,218 - ME modelNone - DEBUG - Added variable: BU_CO2t
+2021-01-12 14:58:55,218 - ME modelNone - DEBUG - Added constraint: SU_CO2t
+2021-01-12 14:58:55,219 - ME modelNone - DEBUG - Added constraint: UF_CO2t
+2021-01-12 14:58:55,219 - ME modelNone - DEBUG - Added constraint: UR_CO2t
+2021-01-12 14:58:55,219 - ME modelNone - DEBUG - Added variable: FU_RPE
+2021-01-12 14:58:55,219 - ME modelNone - DEBUG - Added variable: BU_RPE
+2021-01-12 14:58:55,220 - ME modelNone - DEBUG - Added constraint: SU_RPE
+2021-01-12 14:58:55,220 - ME modelNone - DEBUG - Added constraint: UF_RPE
+2021-01-12 14:58:55,221 - ME modelNone - DEBUG - Added constraint: UR_RPE
+2021-01-12 14:58:55,221 - ME modelNone - DEBUG - Added variable: FU_CS
+2021-01-12 14:58:55,221 - ME modelNone - DEBUG - Added variable: BU_CS
+2021-01-12 14:58:55,221 - ME modelNone - DEBUG - Added constraint: SU_CS
+2021-01-12 14:58:55,222 - ME modelNone - DEBUG - Added constraint: UF_CS
+2021-01-12 14:58:55,223 - ME modelNone - DEBUG - Added constraint: UR_CS
+2021-01-12 14:58:55,223 - ME modelNone - DEBUG - Added variable: FU_RPI
+2021-01-12 14:58:55,223 - ME modelNone - DEBUG - Added variable: BU_RPI
+2021-01-12 14:58:55,223 - ME modelNone - DEBUG - Added constraint: SU_RPI
+2021-01-12 14:58:55,224 - ME modelNone - DEBUG - Added constraint: UF_RPI
+2021-01-12 14:58:55,224 - ME modelNone - DEBUG - Added constraint: UR_RPI
+2021-01-12 14:58:55,225 - ME modelNone - DEBUG - Added variable: FU_SUCCt2_2
+2021-01-12 14:58:55,225 - ME modelNone - DEBUG - Added variable: BU_SUCCt2_2
+2021-01-12 14:58:55,225 - ME modelNone - DEBUG - Added constraint: SU_SUCCt2_2
+2021-01-12 14:58:55,226 - ME modelNone - DEBUG - Added constraint: UF_SUCCt2_2
+2021-01-12 14:58:55,226 - ME modelNone - DEBUG - Added constraint: UR_SUCCt2_2
+2021-01-12 14:58:55,226 - ME modelNone - DEBUG - Added variable: FU_CYTBD
+2021-01-12 14:58:55,227 - ME modelNone - DEBUG - Added variable: BU_CYTBD
+2021-01-12 14:58:55,227 - ME modelNone - DEBUG - Added constraint: SU_CYTBD
+2021-01-12 14:58:55,227 - ME modelNone - DEBUG - Added constraint: UF_CYTBD
+2021-01-12 14:58:55,228 - ME modelNone - DEBUG - Added constraint: UR_CYTBD
+2021-01-12 14:58:55,228 - ME modelNone - DEBUG - Added variable: FU_D_LACt2
+2021-01-12 14:58:55,228 - ME modelNone - DEBUG - Added variable: BU_D_LACt2
+2021-01-12 14:58:55,229 - ME modelNone - DEBUG - Added constraint: SU_D_LACt2
+2021-01-12 14:58:55,229 - ME modelNone - DEBUG - Added constraint: UF_D_LACt2
+2021-01-12 14:58:55,230 - ME modelNone - DEBUG - Added constraint: UR_D_LACt2
+2021-01-12 14:58:55,230 - ME modelNone - DEBUG - Added variable: FU_ENO
+2021-01-12 14:58:55,230 - ME modelNone - DEBUG - Added variable: BU_ENO
+2021-01-12 14:58:55,230 - ME modelNone - DEBUG - Added constraint: SU_ENO
+2021-01-12 14:58:55,231 - ME modelNone - DEBUG - Added constraint: UF_ENO
+2021-01-12 14:58:55,232 - ME modelNone - DEBUG - Added constraint: UR_ENO
+2021-01-12 14:58:55,232 - ME modelNone - DEBUG - Added variable: FU_SUCCt3
+2021-01-12 14:58:55,232 - ME modelNone - DEBUG - Added variable: BU_SUCCt3
+2021-01-12 14:58:55,232 - ME modelNone - DEBUG - Added constraint: SU_SUCCt3
+2021-01-12 14:58:55,233 - ME modelNone - DEBUG - Added constraint: UF_SUCCt3
+2021-01-12 14:58:55,233 - ME modelNone - DEBUG - Added constraint: UR_SUCCt3
+2021-01-12 14:58:55,233 - ME modelNone - DEBUG - Added variable: FU_ETOHt2r
+2021-01-12 14:58:55,234 - ME modelNone - DEBUG - Added variable: BU_ETOHt2r
+2021-01-12 14:58:55,234 - ME modelNone - DEBUG - Added constraint: SU_ETOHt2r
+2021-01-12 14:58:55,234 - ME modelNone - DEBUG - Added constraint: UF_ETOHt2r
+2021-01-12 14:58:55,235 - ME modelNone - DEBUG - Added constraint: UR_ETOHt2r
+2021-01-12 14:58:55,235 - ME modelNone - DEBUG - Added variable: FU_SUCDi
+2021-01-12 14:58:55,235 - ME modelNone - DEBUG - Added variable: BU_SUCDi
+2021-01-12 14:58:55,236 - ME modelNone - DEBUG - Added constraint: SU_SUCDi
+2021-01-12 14:58:55,236 - ME modelNone - DEBUG - Added constraint: UF_SUCDi
+2021-01-12 14:58:55,237 - ME modelNone - DEBUG - Added constraint: UR_SUCDi
+2021-01-12 14:58:55,237 - ME modelNone - DEBUG - Added variable: FU_SUCOAS
+2021-01-12 14:58:55,237 - ME modelNone - DEBUG - Added variable: BU_SUCOAS
+2021-01-12 14:58:55,238 - ME modelNone - DEBUG - Added constraint: SU_SUCOAS
+2021-01-12 14:58:55,238 - ME modelNone - DEBUG - Added constraint: UF_SUCOAS
+2021-01-12 14:58:55,239 - ME modelNone - DEBUG - Added constraint: UR_SUCOAS
+2021-01-12 14:58:55,239 - ME modelNone - DEBUG - Added variable: FU_TALA
+2021-01-12 14:58:55,239 - ME modelNone - DEBUG - Added variable: BU_TALA
+2021-01-12 14:58:55,239 - ME modelNone - DEBUG - Added constraint: SU_TALA
+2021-01-12 14:58:55,240 - ME modelNone - DEBUG - Added constraint: UF_TALA
+2021-01-12 14:58:55,241 - ME modelNone - DEBUG - Added constraint: UR_TALA
+2021-01-12 14:58:55,241 - ME modelNone - DEBUG - Added variable: FU_THD2
+2021-01-12 14:58:55,241 - ME modelNone - DEBUG - Added variable: BU_THD2
+2021-01-12 14:58:55,241 - ME modelNone - DEBUG - Added constraint: SU_THD2
+2021-01-12 14:58:55,242 - ME modelNone - DEBUG - Added constraint: UF_THD2
+2021-01-12 14:58:55,242 - ME modelNone - DEBUG - Added constraint: UR_THD2
+2021-01-12 14:58:55,243 - ME modelNone - DEBUG - Added variable: FU_TKT1
+2021-01-12 14:58:55,243 - ME modelNone - DEBUG - Added variable: BU_TKT1
+2021-01-12 14:58:55,243 - ME modelNone - DEBUG - Added constraint: SU_TKT1
+2021-01-12 14:58:55,244 - ME modelNone - DEBUG - Added constraint: UF_TKT1
+2021-01-12 14:58:55,244 - ME modelNone - DEBUG - Added constraint: UR_TKT1
+2021-01-12 14:58:55,244 - ME modelNone - DEBUG - Added variable: FU_TKT2
+2021-01-12 14:58:55,245 - ME modelNone - DEBUG - Added variable: BU_TKT2
+2021-01-12 14:58:55,245 - ME modelNone - DEBUG - Added constraint: SU_TKT2
+2021-01-12 14:58:55,245 - ME modelNone - DEBUG - Added constraint: UF_TKT2
+2021-01-12 14:58:55,246 - ME modelNone - DEBUG - Added constraint: UR_TKT2
+2021-01-12 14:58:55,246 - ME modelNone - DEBUG - Added variable: FU_TPI
+2021-01-12 14:58:55,246 - ME modelNone - DEBUG - Added variable: BU_TPI
+2021-01-12 14:58:55,247 - ME modelNone - DEBUG - Added constraint: SU_TPI
+2021-01-12 14:58:55,247 - ME modelNone - DEBUG - Added constraint: UF_TPI
+2021-01-12 14:58:55,247 - ME modelNone - DEBUG - Added constraint: UR_TPI
+2021-01-12 14:58:55,248 - ME modelNone - DEBUG - Added variable: FU_EX_ac_e
+2021-01-12 14:58:55,248 - ME modelNone - DEBUG - Added variable: BU_EX_ac_e
+2021-01-12 14:58:55,248 - ME modelNone - DEBUG - Added constraint: SU_EX_ac_e
+2021-01-12 14:58:55,248 - ME modelNone - DEBUG - Added constraint: UF_EX_ac_e
+2021-01-12 14:58:55,249 - ME modelNone - DEBUG - Added constraint: UR_EX_ac_e
+2021-01-12 14:58:55,249 - ME modelNone - DEBUG - Added variable: FU_EX_acald_e
+2021-01-12 14:58:55,249 - ME modelNone - DEBUG - Added variable: BU_EX_acald_e
+2021-01-12 14:58:55,249 - ME modelNone - DEBUG - Added constraint: SU_EX_acald_e
+2021-01-12 14:58:55,250 - ME modelNone - DEBUG - Added constraint: UF_EX_acald_e
+2021-01-12 14:58:55,250 - ME modelNone - DEBUG - Added constraint: UR_EX_acald_e
+2021-01-12 14:58:55,251 - ME modelNone - DEBUG - Added variable: FU_EX_akg_e
+2021-01-12 14:58:55,251 - ME modelNone - DEBUG - Added variable: BU_EX_akg_e
+2021-01-12 14:58:55,251 - ME modelNone - DEBUG - Added constraint: SU_EX_akg_e
+2021-01-12 14:58:55,252 - ME modelNone - DEBUG - Added constraint: UF_EX_akg_e
+2021-01-12 14:58:55,252 - ME modelNone - DEBUG - Added constraint: UR_EX_akg_e
+2021-01-12 14:58:55,252 - ME modelNone - DEBUG - Added variable: FU_EX_co2_e
+2021-01-12 14:58:55,253 - ME modelNone - DEBUG - Added variable: BU_EX_co2_e
+2021-01-12 14:58:55,253 - ME modelNone - DEBUG - Added constraint: SU_EX_co2_e
+2021-01-12 14:58:55,253 - ME modelNone - DEBUG - Added constraint: UF_EX_co2_e
+2021-01-12 14:58:55,254 - ME modelNone - DEBUG - Added constraint: UR_EX_co2_e
+2021-01-12 14:58:55,254 - ME modelNone - DEBUG - Added variable: FU_EX_etoh_e
+2021-01-12 14:58:55,254 - ME modelNone - DEBUG - Added variable: BU_EX_etoh_e
+2021-01-12 14:58:55,254 - ME modelNone - DEBUG - Added constraint: SU_EX_etoh_e
+2021-01-12 14:58:55,255 - ME modelNone - DEBUG - Added constraint: UF_EX_etoh_e
+2021-01-12 14:58:55,255 - ME modelNone - DEBUG - Added constraint: UR_EX_etoh_e
+2021-01-12 14:58:55,256 - ME modelNone - DEBUG - Added variable: FU_EX_for_e
+2021-01-12 14:58:55,256 - ME modelNone - DEBUG - Added variable: BU_EX_for_e
+2021-01-12 14:58:55,256 - ME modelNone - DEBUG - Added constraint: SU_EX_for_e
+2021-01-12 14:58:55,256 - ME modelNone - DEBUG - Added constraint: UF_EX_for_e
+2021-01-12 14:58:55,257 - ME modelNone - DEBUG - Added constraint: UR_EX_for_e
+2021-01-12 14:58:55,257 - ME modelNone - DEBUG - Added variable: FU_EX_fru_e
+2021-01-12 14:58:55,257 - ME modelNone - DEBUG - Added variable: BU_EX_fru_e
+2021-01-12 14:58:55,257 - ME modelNone - DEBUG - Added constraint: SU_EX_fru_e
+2021-01-12 14:58:55,258 - ME modelNone - DEBUG - Added constraint: UF_EX_fru_e
+2021-01-12 14:58:55,258 - ME modelNone - DEBUG - Added constraint: UR_EX_fru_e
+2021-01-12 14:58:55,259 - ME modelNone - DEBUG - Added variable: FU_EX_fum_e
+2021-01-12 14:58:55,259 - ME modelNone - DEBUG - Added variable: BU_EX_fum_e
+2021-01-12 14:58:55,259 - ME modelNone - DEBUG - Added constraint: SU_EX_fum_e
+2021-01-12 14:58:55,260 - ME modelNone - DEBUG - Added constraint: UF_EX_fum_e
+2021-01-12 14:58:55,260 - ME modelNone - DEBUG - Added constraint: UR_EX_fum_e
+2021-01-12 14:58:55,261 - ME modelNone - DEBUG - Added variable: FU_EX_glc__D_e
+2021-01-12 14:58:55,261 - ME modelNone - DEBUG - Added variable: BU_EX_glc__D_e
+2021-01-12 14:58:55,261 - ME modelNone - DEBUG - Added constraint: SU_EX_glc__D_e
+2021-01-12 14:58:55,262 - ME modelNone - DEBUG - Added constraint: UF_EX_glc__D_e
+2021-01-12 14:58:55,262 - ME modelNone - DEBUG - Added constraint: UR_EX_glc__D_e
+2021-01-12 14:58:55,262 - ME modelNone - DEBUG - Added variable: FU_EX_gln__L_e
+2021-01-12 14:58:55,263 - ME modelNone - DEBUG - Added variable: BU_EX_gln__L_e
+2021-01-12 14:58:55,263 - ME modelNone - DEBUG - Added constraint: SU_EX_gln__L_e
+2021-01-12 14:58:55,263 - ME modelNone - DEBUG - Added constraint: UF_EX_gln__L_e
+2021-01-12 14:58:55,264 - ME modelNone - DEBUG - Added constraint: UR_EX_gln__L_e
+2021-01-12 14:58:55,264 - ME modelNone - DEBUG - Added variable: FU_EX_glu__L_e
+2021-01-12 14:58:55,264 - ME modelNone - DEBUG - Added variable: BU_EX_glu__L_e
+2021-01-12 14:58:55,265 - ME modelNone - DEBUG - Added constraint: SU_EX_glu__L_e
+2021-01-12 14:58:55,265 - ME modelNone - DEBUG - Added constraint: UF_EX_glu__L_e
+2021-01-12 14:58:55,266 - ME modelNone - DEBUG - Added constraint: UR_EX_glu__L_e
+2021-01-12 14:58:55,266 - ME modelNone - DEBUG - Added variable: FU_EX_h_e
+2021-01-12 14:58:55,266 - ME modelNone - DEBUG - Added variable: BU_EX_h_e
+2021-01-12 14:58:55,266 - ME modelNone - DEBUG - Added constraint: SU_EX_h_e
+2021-01-12 14:58:55,267 - ME modelNone - DEBUG - Added constraint: UF_EX_h_e
+2021-01-12 14:58:55,267 - ME modelNone - DEBUG - Added constraint: UR_EX_h_e
+2021-01-12 14:58:55,267 - ME modelNone - DEBUG - Added variable: FU_EX_h2o_e
+2021-01-12 14:58:55,267 - ME modelNone - DEBUG - Added variable: BU_EX_h2o_e
+2021-01-12 14:58:55,268 - ME modelNone - DEBUG - Added constraint: SU_EX_h2o_e
+2021-01-12 14:58:55,268 - ME modelNone - DEBUG - Added constraint: UF_EX_h2o_e
+2021-01-12 14:58:55,269 - ME modelNone - DEBUG - Added constraint: UR_EX_h2o_e
+2021-01-12 14:58:55,269 - ME modelNone - DEBUG - Added variable: FU_EX_lac__D_e
+2021-01-12 14:58:55,269 - ME modelNone - DEBUG - Added variable: BU_EX_lac__D_e
+2021-01-12 14:58:55,269 - ME modelNone - DEBUG - Added constraint: SU_EX_lac__D_e
+2021-01-12 14:58:55,270 - ME modelNone - DEBUG - Added constraint: UF_EX_lac__D_e
+2021-01-12 14:58:55,271 - ME modelNone - DEBUG - Added constraint: UR_EX_lac__D_e
+2021-01-12 14:58:55,271 - ME modelNone - DEBUG - Added variable: FU_EX_mal__L_e
+2021-01-12 14:58:55,271 - ME modelNone - DEBUG - Added variable: BU_EX_mal__L_e
+2021-01-12 14:58:55,271 - ME modelNone - DEBUG - Added constraint: SU_EX_mal__L_e
+2021-01-12 14:58:55,272 - ME modelNone - DEBUG - Added constraint: UF_EX_mal__L_e
+2021-01-12 14:58:55,272 - ME modelNone - DEBUG - Added constraint: UR_EX_mal__L_e
+2021-01-12 14:58:55,273 - ME modelNone - DEBUG - Added variable: FU_EX_nh4_e
+2021-01-12 14:58:55,273 - ME modelNone - DEBUG - Added variable: BU_EX_nh4_e
+2021-01-12 14:58:55,273 - ME modelNone - DEBUG - Added constraint: SU_EX_nh4_e
+2021-01-12 14:58:55,274 - ME modelNone - DEBUG - Added constraint: UF_EX_nh4_e
+2021-01-12 14:58:55,274 - ME modelNone - DEBUG - Added constraint: UR_EX_nh4_e
+2021-01-12 14:58:55,274 - ME modelNone - DEBUG - Added variable: FU_EX_o2_e
+2021-01-12 14:58:55,275 - ME modelNone - DEBUG - Added variable: BU_EX_o2_e
+2021-01-12 14:58:55,275 - ME modelNone - DEBUG - Added constraint: SU_EX_o2_e
+2021-01-12 14:58:55,275 - ME modelNone - DEBUG - Added constraint: UF_EX_o2_e
+2021-01-12 14:58:55,276 - ME modelNone - DEBUG - Added constraint: UR_EX_o2_e
+2021-01-12 14:58:55,276 - ME modelNone - DEBUG - Added variable: FU_EX_pi_e
+2021-01-12 14:58:55,276 - ME modelNone - DEBUG - Added variable: BU_EX_pi_e
+2021-01-12 14:58:55,277 - ME modelNone - DEBUG - Added constraint: SU_EX_pi_e
+2021-01-12 14:58:55,277 - ME modelNone - DEBUG - Added constraint: UF_EX_pi_e
+2021-01-12 14:58:55,278 - ME modelNone - DEBUG - Added constraint: UR_EX_pi_e
+2021-01-12 14:58:55,278 - ME modelNone - DEBUG - Added variable: FU_EX_pyr_e
+2021-01-12 14:58:55,278 - ME modelNone - DEBUG - Added variable: BU_EX_pyr_e
+2021-01-12 14:58:55,278 - ME modelNone - DEBUG - Added constraint: SU_EX_pyr_e
+2021-01-12 14:58:55,279 - ME modelNone - DEBUG - Added constraint: UF_EX_pyr_e
+2021-01-12 14:58:55,279 - ME modelNone - DEBUG - Added constraint: UR_EX_pyr_e
+2021-01-12 14:58:55,280 - ME modelNone - DEBUG - Added variable: FU_EX_succ_e
+2021-01-12 14:58:55,280 - ME modelNone - DEBUG - Added variable: BU_EX_succ_e
+2021-01-12 14:58:55,280 - ME modelNone - DEBUG - Added constraint: SU_EX_succ_e
+2021-01-12 14:58:55,281 - ME modelNone - DEBUG - Added constraint: UF_EX_succ_e
+2021-01-12 14:58:55,281 - ME modelNone - DEBUG - Added constraint: UR_EX_succ_e
+2021-01-12 14:58:55,281 - ME modelNone - DEBUG - Added variable: FU_FBA
+2021-01-12 14:58:55,282 - ME modelNone - DEBUG - Added variable: BU_FBA
+2021-01-12 14:58:55,282 - ME modelNone - DEBUG - Added constraint: SU_FBA
+2021-01-12 14:58:55,282 - ME modelNone - DEBUG - Added constraint: UF_FBA
+2021-01-12 14:58:55,283 - ME modelNone - DEBUG - Added constraint: UR_FBA
+2021-01-12 14:58:55,283 - ME modelNone - DEBUG - Added variable: FU_FBP
+2021-01-12 14:58:55,283 - ME modelNone - DEBUG - Added variable: BU_FBP
+2021-01-12 14:58:55,284 - ME modelNone - DEBUG - Added constraint: SU_FBP
+2021-01-12 14:58:55,284 - ME modelNone - DEBUG - Added constraint: UF_FBP
+2021-01-12 14:58:55,285 - ME modelNone - DEBUG - Added constraint: UR_FBP
+2021-01-12 14:58:55,285 - ME modelNone - DEBUG - Added variable: FU_FORt2
+2021-01-12 14:58:55,285 - ME modelNone - DEBUG - Added variable: BU_FORt2
+2021-01-12 14:58:55,285 - ME modelNone - DEBUG - Added constraint: SU_FORt2
+2021-01-12 14:58:55,286 - ME modelNone - DEBUG - Added constraint: UF_FORt2
+2021-01-12 14:58:55,287 - ME modelNone - DEBUG - Added constraint: UR_FORt2
+2021-01-12 14:58:55,287 - ME modelNone - DEBUG - Added variable: FU_FORt
+2021-01-12 14:58:55,287 - ME modelNone - DEBUG - Added variable: BU_FORt
+2021-01-12 14:58:55,287 - ME modelNone - DEBUG - Added constraint: SU_FORt
+2021-01-12 14:58:55,288 - ME modelNone - DEBUG - Added constraint: UF_FORt
+2021-01-12 14:58:55,288 - ME modelNone - DEBUG - Added constraint: UR_FORt
+2021-01-12 14:58:55,289 - ME modelNone - DEBUG - Added variable: FU_FRD7
+2021-01-12 14:58:55,289 - ME modelNone - DEBUG - Added variable: BU_FRD7
+2021-01-12 14:58:55,289 - ME modelNone - DEBUG - Added constraint: SU_FRD7
+2021-01-12 14:58:55,290 - ME modelNone - DEBUG - Added constraint: UF_FRD7
+2021-01-12 14:58:55,290 - ME modelNone - DEBUG - Added constraint: UR_FRD7
+2021-01-12 14:58:55,290 - ME modelNone - DEBUG - Added variable: FU_FRUpts2
+2021-01-12 14:58:55,291 - ME modelNone - DEBUG - Added variable: BU_FRUpts2
+2021-01-12 14:58:55,291 - ME modelNone - DEBUG - Added constraint: SU_FRUpts2
+2021-01-12 14:58:55,292 - ME modelNone - DEBUG - Added constraint: UF_FRUpts2
+2021-01-12 14:58:55,292 - ME modelNone - DEBUG - Added constraint: UR_FRUpts2
+2021-01-12 14:58:55,292 - ME modelNone - DEBUG - Added variable: FU_FUM
+2021-01-12 14:58:55,293 - ME modelNone - DEBUG - Added variable: BU_FUM
+2021-01-12 14:58:55,293 - ME modelNone - DEBUG - Added constraint: SU_FUM
+2021-01-12 14:58:55,293 - ME modelNone - DEBUG - Added constraint: UF_FUM
+2021-01-12 14:58:55,294 - ME modelNone - DEBUG - Added constraint: UR_FUM
+2021-01-12 14:58:55,294 - ME modelNone - DEBUG - Added variable: FU_FUMt2_2
+2021-01-12 14:58:55,294 - ME modelNone - DEBUG - Added variable: BU_FUMt2_2
+2021-01-12 14:58:55,295 - ME modelNone - DEBUG - Added constraint: SU_FUMt2_2
+2021-01-12 14:58:55,295 - ME modelNone - DEBUG - Added constraint: UF_FUMt2_2
+2021-01-12 14:58:55,296 - ME modelNone - DEBUG - Added constraint: UR_FUMt2_2
+2021-01-12 14:58:55,296 - ME modelNone - DEBUG - Added variable: FU_G6PDH2r
+2021-01-12 14:58:55,296 - ME modelNone - DEBUG - Added variable: BU_G6PDH2r
+2021-01-12 14:58:55,296 - ME modelNone - DEBUG - Added constraint: SU_G6PDH2r
+2021-01-12 14:58:55,297 - ME modelNone - DEBUG - Added constraint: UF_G6PDH2r
+2021-01-12 14:58:55,298 - ME modelNone - DEBUG - Added constraint: UR_G6PDH2r
+2021-01-12 14:58:55,298 - ME modelNone - DEBUG - Added variable: FU_GAPD
+2021-01-12 14:58:55,298 - ME modelNone - DEBUG - Added variable: BU_GAPD
+2021-01-12 14:58:55,298 - ME modelNone - DEBUG - Added constraint: SU_GAPD
+2021-01-12 14:58:55,299 - ME modelNone - DEBUG - Added constraint: UF_GAPD
+2021-01-12 14:58:55,299 - ME modelNone - DEBUG - Added constraint: UR_GAPD
+2021-01-12 14:58:55,299 - ME modelNone - DEBUG - Added variable: FU_GLCpts
+2021-01-12 14:58:55,300 - ME modelNone - DEBUG - Added variable: BU_GLCpts
+2021-01-12 14:58:55,300 - ME modelNone - DEBUG - Added constraint: SU_GLCpts
+2021-01-12 14:58:55,300 - ME modelNone - DEBUG - Added constraint: UF_GLCpts
+2021-01-12 14:58:55,301 - ME modelNone - DEBUG - Added constraint: UR_GLCpts
+2021-01-12 14:58:55,301 - ME modelNone - DEBUG - Added variable: FU_GLNS
+2021-01-12 14:58:55,301 - ME modelNone - DEBUG - Added variable: BU_GLNS
+2021-01-12 14:58:55,302 - ME modelNone - DEBUG - Added constraint: SU_GLNS
+2021-01-12 14:58:55,302 - ME modelNone - DEBUG - Added constraint: UF_GLNS
+2021-01-12 14:58:55,303 - ME modelNone - DEBUG - Added constraint: UR_GLNS
+2021-01-12 14:58:55,303 - ME modelNone - DEBUG - Added variable: FU_GLNabc
+2021-01-12 14:58:55,303 - ME modelNone - DEBUG - Added variable: BU_GLNabc
+2021-01-12 14:58:55,304 - ME modelNone - DEBUG - Added constraint: SU_GLNabc
+2021-01-12 14:58:55,304 - ME modelNone - DEBUG - Added constraint: UF_GLNabc
+2021-01-12 14:58:55,305 - ME modelNone - DEBUG - Added constraint: UR_GLNabc
+2021-01-12 14:58:55,305 - ME modelNone - DEBUG - Added variable: FU_GLUDy
+2021-01-12 14:58:55,305 - ME modelNone - DEBUG - Added variable: BU_GLUDy
+2021-01-12 14:58:55,306 - ME modelNone - DEBUG - Added constraint: SU_GLUDy
+2021-01-12 14:58:55,306 - ME modelNone - DEBUG - Added constraint: UF_GLUDy
+2021-01-12 14:58:55,307 - ME modelNone - DEBUG - Added constraint: UR_GLUDy
+2021-01-12 14:58:55,307 - ME modelNone - DEBUG - Added variable: FU_GLUN
+2021-01-12 14:58:55,307 - ME modelNone - DEBUG - Added variable: BU_GLUN
+2021-01-12 14:58:55,307 - ME modelNone - DEBUG - Added constraint: SU_GLUN
+2021-01-12 14:58:55,308 - ME modelNone - DEBUG - Added constraint: UF_GLUN
+2021-01-12 14:58:55,309 - ME modelNone - DEBUG - Added constraint: UR_GLUN
+2021-01-12 14:58:55,309 - ME modelNone - DEBUG - Added variable: FU_GLUSy
+2021-01-12 14:58:55,309 - ME modelNone - DEBUG - Added variable: BU_GLUSy
+2021-01-12 14:58:55,309 - ME modelNone - DEBUG - Added constraint: SU_GLUSy
+2021-01-12 14:58:55,310 - ME modelNone - DEBUG - Added constraint: UF_GLUSy
+2021-01-12 14:58:55,310 - ME modelNone - DEBUG - Added constraint: UR_GLUSy
+2021-01-12 14:58:55,311 - ME modelNone - DEBUG - Added variable: FU_GLUt2r
+2021-01-12 14:58:55,311 - ME modelNone - DEBUG - Added variable: BU_GLUt2r
+2021-01-12 14:58:55,311 - ME modelNone - DEBUG - Added constraint: SU_GLUt2r
+2021-01-12 14:58:55,312 - ME modelNone - DEBUG - Added constraint: UF_GLUt2r
+2021-01-12 14:58:55,312 - ME modelNone - DEBUG - Added constraint: UR_GLUt2r
+2021-01-12 14:58:55,312 - ME modelNone - DEBUG - Added variable: FU_GND
+2021-01-12 14:58:55,313 - ME modelNone - DEBUG - Added variable: BU_GND
+2021-01-12 14:58:55,313 - ME modelNone - DEBUG - Added constraint: SU_GND
+2021-01-12 14:58:55,313 - ME modelNone - DEBUG - Added constraint: UF_GND
+2021-01-12 14:58:55,314 - ME modelNone - DEBUG - Added constraint: UR_GND
+2021-01-12 14:58:55,314 - ME modelNone - DEBUG - Added variable: FU_H2Ot
+2021-01-12 14:58:55,315 - ME modelNone - DEBUG - Added variable: BU_H2Ot
+2021-01-12 14:58:55,315 - ME modelNone - DEBUG - Added constraint: SU_H2Ot
+2021-01-12 14:58:55,315 - ME modelNone - DEBUG - Added constraint: UF_H2Ot
+2021-01-12 14:58:55,316 - ME modelNone - DEBUG - Added constraint: UR_H2Ot
+2021-01-12 14:58:55,316 - ME modelNone - DEBUG - Added variable: FU_ICDHyr
+2021-01-12 14:58:55,316 - ME modelNone - DEBUG - Added variable: BU_ICDHyr
+2021-01-12 14:58:55,317 - ME modelNone - DEBUG - Added constraint: SU_ICDHyr
+2021-01-12 14:58:55,317 - ME modelNone - DEBUG - Added constraint: UF_ICDHyr
+2021-01-12 14:58:55,318 - ME modelNone - DEBUG - Added constraint: UR_ICDHyr
+2021-01-12 14:58:55,318 - ME modelNone - DEBUG - Added variable: FU_ICL
+2021-01-12 14:58:55,318 - ME modelNone - DEBUG - Added variable: BU_ICL
+2021-01-12 14:58:55,318 - ME modelNone - DEBUG - Added constraint: SU_ICL
+2021-01-12 14:58:55,319 - ME modelNone - DEBUG - Added constraint: UF_ICL
+2021-01-12 14:58:55,320 - ME modelNone - DEBUG - Added constraint: UR_ICL
+2021-01-12 14:58:55,320 - ME modelNone - DEBUG - Added variable: FU_LDH_D
+2021-01-12 14:58:55,320 - ME modelNone - DEBUG - Added variable: BU_LDH_D
+2021-01-12 14:58:55,320 - ME modelNone - DEBUG - Added constraint: SU_LDH_D
+2021-01-12 14:58:55,321 - ME modelNone - DEBUG - Added constraint: UF_LDH_D
+2021-01-12 14:58:55,322 - ME modelNone - DEBUG - Added constraint: UR_LDH_D
+2021-01-12 14:58:55,322 - ME modelNone - DEBUG - Added variable: FU_MALS
+2021-01-12 14:58:55,322 - ME modelNone - DEBUG - Added variable: BU_MALS
+2021-01-12 14:58:55,322 - ME modelNone - DEBUG - Added constraint: SU_MALS
+2021-01-12 14:58:55,323 - ME modelNone - DEBUG - Added constraint: UF_MALS
+2021-01-12 14:58:55,323 - ME modelNone - DEBUG - Added constraint: UR_MALS
+2021-01-12 14:58:55,324 - ME modelNone - DEBUG - Added variable: FU_MALt2_2
+2021-01-12 14:58:55,324 - ME modelNone - DEBUG - Added variable: BU_MALt2_2
+2021-01-12 14:58:55,324 - ME modelNone - DEBUG - Added constraint: SU_MALt2_2
+2021-01-12 14:58:55,325 - ME modelNone - DEBUG - Added constraint: UF_MALt2_2
+2021-01-12 14:58:55,326 - ME modelNone - DEBUG - Added constraint: UR_MALt2_2
+2021-01-12 14:58:55,326 - ME modelNone - DEBUG - Added variable: FU_MDH
+2021-01-12 14:58:55,326 - ME modelNone - DEBUG - Added variable: BU_MDH
+2021-01-12 14:58:55,326 - ME modelNone - DEBUG - Added constraint: SU_MDH
+2021-01-12 14:58:55,327 - ME modelNone - DEBUG - Added constraint: UF_MDH
+2021-01-12 14:58:55,327 - ME modelNone - DEBUG - Added constraint: UR_MDH
+2021-01-12 14:58:55,328 - ME modelNone - DEBUG - Added variable: FU_ME1
+2021-01-12 14:58:55,328 - ME modelNone - DEBUG - Added variable: BU_ME1
+2021-01-12 14:58:55,328 - ME modelNone - DEBUG - Added constraint: SU_ME1
+2021-01-12 14:58:55,329 - ME modelNone - DEBUG - Added constraint: UF_ME1
+2021-01-12 14:58:55,329 - ME modelNone - DEBUG - Added constraint: UR_ME1
+2021-01-12 14:58:55,329 - ME modelNone - DEBUG - Added variable: FU_ME2
+2021-01-12 14:58:55,330 - ME modelNone - DEBUG - Added variable: BU_ME2
+2021-01-12 14:58:55,330 - ME modelNone - DEBUG - Added constraint: SU_ME2
+2021-01-12 14:58:55,330 - ME modelNone - DEBUG - Added constraint: UF_ME2
+2021-01-12 14:58:55,331 - ME modelNone - DEBUG - Added constraint: UR_ME2
+2021-01-12 14:58:55,331 - ME modelNone - DEBUG - Added variable: FU_NADH16
+2021-01-12 14:58:55,331 - ME modelNone - DEBUG - Added variable: BU_NADH16
+2021-01-12 14:58:55,331 - ME modelNone - DEBUG - Added constraint: SU_NADH16
+2021-01-12 14:58:55,332 - ME modelNone - DEBUG - Added constraint: UF_NADH16
+2021-01-12 14:58:55,332 - ME modelNone - DEBUG - Added constraint: UR_NADH16
+2021-01-12 14:58:55,332 - ME modelNone - DEBUG - Added variable: FU_NADTRHD
+2021-01-12 14:58:55,333 - ME modelNone - DEBUG - Added variable: BU_NADTRHD
+2021-01-12 14:58:55,333 - ME modelNone - DEBUG - Added constraint: SU_NADTRHD
+2021-01-12 14:58:55,333 - ME modelNone - DEBUG - Added constraint: UF_NADTRHD
+2021-01-12 14:58:55,335 - ME modelNone - DEBUG - Added constraint: UR_NADTRHD
+2021-01-12 14:58:55,336 - ME modelNone - DEBUG - Added variable: FU_NH4t
+2021-01-12 14:58:55,336 - ME modelNone - DEBUG - Added variable: BU_NH4t
+2021-01-12 14:58:55,336 - ME modelNone - DEBUG - Added constraint: SU_NH4t
+2021-01-12 14:58:55,336 - ME modelNone - DEBUG - Added constraint: UF_NH4t
+2021-01-12 14:58:55,337 - ME modelNone - DEBUG - Added constraint: UR_NH4t
+2021-01-12 14:58:55,337 - ME modelNone - DEBUG - Added variable: FU_O2t
+2021-01-12 14:58:55,337 - ME modelNone - DEBUG - Added variable: BU_O2t
+2021-01-12 14:58:55,337 - ME modelNone - DEBUG - Added constraint: SU_O2t
+2021-01-12 14:58:55,338 - ME modelNone - DEBUG - Added constraint: UF_O2t
+2021-01-12 14:58:55,339 - ME modelNone - DEBUG - Added constraint: UR_O2t
+2021-01-12 14:58:55,339 - ME modelNone - DEBUG - Added variable: FU_PDH
+2021-01-12 14:58:55,339 - ME modelNone - DEBUG - Added variable: BU_PDH
+2021-01-12 14:58:55,339 - ME modelNone - DEBUG - Added constraint: SU_PDH
+2021-01-12 14:58:55,340 - ME modelNone - DEBUG - Added constraint: UF_PDH
+2021-01-12 14:58:55,340 - ME modelNone - DEBUG - Added constraint: UR_PDH
+2021-01-12 14:58:55,340 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_gln__L_c
+2021-01-12 14:58:55,341 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_gln__L_c
+2021-01-12 14:58:55,341 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_gln__L_c
+2021-01-12 14:58:55,342 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_gln__L_c
+2021-01-12 14:58:55,343 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_gln__L_c
+2021-01-12 14:58:55,344 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_glu__L_c
+2021-01-12 14:58:55,344 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_glu__L_c
+2021-01-12 14:58:55,345 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_glu__L_c
+2021-01-12 14:58:55,346 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_glu__L_c
+2021-01-12 14:58:55,347 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_glu__L_c
+2021-01-12 14:58:55,347 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_h2o_c
+2021-01-12 14:58:55,348 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_h2o_c
+2021-01-12 14:58:55,348 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_h2o_c
+2021-01-12 14:58:55,349 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_h2o_c
+2021-01-12 14:58:55,350 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_h2o_c
+2021-01-12 14:58:55,351 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_3pg_c
+2021-01-12 14:58:55,351 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_3pg_c
+2021-01-12 14:58:55,352 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_3pg_c
+2021-01-12 14:58:55,353 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_3pg_c
+2021-01-12 14:58:55,354 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_3pg_c
+2021-01-12 14:58:55,354 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_oaa_c
+2021-01-12 14:58:55,355 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_oaa_c
+2021-01-12 14:58:55,355 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_oaa_c
+2021-01-12 14:58:55,356 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_oaa_c
+2021-01-12 14:58:55,357 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_oaa_c
+2021-01-12 14:58:55,358 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_pep_c
+2021-01-12 14:58:55,358 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_pep_c
+2021-01-12 14:58:55,359 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_pep_c
+2021-01-12 14:58:55,359 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_pep_c
+2021-01-12 14:58:55,360 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_pep_c
+2021-01-12 14:58:55,361 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_pyr_c
+2021-01-12 14:58:55,361 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_pyr_c
+2021-01-12 14:58:55,362 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_pyr_c
+2021-01-12 14:58:55,363 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_pyr_c
+2021-01-12 14:58:55,364 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_pyr_c
+2021-01-12 14:58:55,364 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_r5p_c
+2021-01-12 14:58:55,365 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_r5p_c
+2021-01-12 14:58:55,365 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_r5p_c
+2021-01-12 14:58:55,366 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_r5p_c
+2021-01-12 14:58:55,367 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_r5p_c
+2021-01-12 14:58:55,369 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_e4p_c
+2021-01-12 14:58:55,370 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_e4p_c
+2021-01-12 14:58:55,371 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_e4p_c
+2021-01-12 14:58:55,372 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_e4p_c
+2021-01-12 14:58:55,373 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_e4p_c
+2021-01-12 14:58:55,373 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_f6p_c
+2021-01-12 14:58:55,374 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_f6p_c
+2021-01-12 14:58:55,374 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_f6p_c
+2021-01-12 14:58:55,375 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_f6p_c
+2021-01-12 14:58:55,377 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_f6p_c
+2021-01-12 14:58:55,377 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_g3p_c
+2021-01-12 14:58:55,378 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_g3p_c
+2021-01-12 14:58:55,379 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_g3p_c
+2021-01-12 14:58:55,380 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_g3p_c
+2021-01-12 14:58:55,381 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_g3p_c
+2021-01-12 14:58:55,382 - ME modelNone - DEBUG - Added variable: FU_MT_BIOMASS_Ecoli_core_w_GAM_g6p_c
+2021-01-12 14:58:55,382 - ME modelNone - DEBUG - Added variable: BU_MT_BIOMASS_Ecoli_core_w_GAM_g6p_c
+2021-01-12 14:58:55,383 - ME modelNone - DEBUG - Added constraint: SU_MT_BIOMASS_Ecoli_core_w_GAM_g6p_c
+2021-01-12 14:58:55,384 - ME modelNone - DEBUG - Added constraint: UF_MT_BIOMASS_Ecoli_core_w_GAM_g6p_c
+2021-01-12 14:58:55,385 - ME modelNone - DEBUG - Added constraint: UR_MT_BIOMASS_Ecoli_core_w_GAM_g6p_c
+2021-01-12 14:58:55,385 - ME modelNone - DEBUG - Added variable: FU_MT_oaa_c
+2021-01-12 14:58:55,386 - ME modelNone - DEBUG - Added variable: BU_MT_oaa_c
+2021-01-12 14:58:55,386 - ME modelNone - DEBUG - Added constraint: SU_MT_oaa_c
+2021-01-12 14:58:55,387 - ME modelNone - DEBUG - Added constraint: UF_MT_oaa_c
+2021-01-12 14:58:55,388 - ME modelNone - DEBUG - Added constraint: UR_MT_oaa_c
+2021-01-12 14:58:55,389 - ME modelNone - DEBUG - Added variable: FU_MT_pyr_c
+2021-01-12 14:58:55,390 - ME modelNone - DEBUG - Added variable: BU_MT_pyr_c
+2021-01-12 14:58:55,390 - ME modelNone - DEBUG - Added constraint: SU_MT_pyr_c
+2021-01-12 14:58:55,391 - ME modelNone - DEBUG - Added constraint: UF_MT_pyr_c
+2021-01-12 14:58:55,392 - ME modelNone - DEBUG - Added constraint: UR_MT_pyr_c
+2021-01-12 14:58:55,393 - ME modelNone - DEBUG - Added variable: FU_MT_succ_c
+2021-01-12 14:58:55,393 - ME modelNone - DEBUG - Added variable: BU_MT_succ_c
+2021-01-12 14:58:55,394 - ME modelNone - DEBUG - Added constraint: SU_MT_succ_c
+2021-01-12 14:58:55,395 - ME modelNone - DEBUG - Added constraint: UF_MT_succ_c
+2021-01-12 14:58:55,396 - ME modelNone - DEBUG - Added constraint: UR_MT_succ_c
+2021-01-12 14:58:55,397 - ME modelNone - INFO - # Model conversion done.
+2021-01-12 14:58:55,397 - ME modelNone - INFO - # Updating cobra_model variables...
+2021-01-12 14:58:55,401 - ME modelNone - INFO - # cobra_model variables are up-to-date
+2021-01-12 14:58:55,457 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.05 sec
+2021-01-12 14:58:55,667 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.20 sec
+2021-01-12 14:58:55,669 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_gln__L_c
+2021-01-12 14:58:55,798 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.13 sec
+2021-01-12 14:58:55,834 - ME modelNone - DEBUG - Added constraint: FP_gln__L_c_58.00000000138223_1
+2021-01-12 14:58:56,054 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.22 sec
+2021-01-12 14:58:56,087 - ME modelNone - DEBUG - Added constraint: FP_gln__L_c_58.00000000138223_2
+2021-01-12 14:58:56,147 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:58:56,351 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.20 sec
+2021-01-12 14:58:56,353 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_glu__L_c
+2021-01-12 14:58:56,602 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.25 sec
+2021-01-12 14:58:56,634 - ME modelNone - DEBUG - Added constraint: FP_glu__L_c_59.0_1
+2021-01-12 14:58:56,871 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.24 sec
+2021-01-12 14:58:56,902 - ME modelNone - DEBUG - Added constraint: FP_glu__L_c_59.0_2
+2021-01-12 14:58:56,971 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.05 sec
+2021-01-12 14:58:57,220 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.24 sec
+2021-01-12 14:58:57,222 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_h2o_c
+2021-01-12 14:58:57,662 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.44 sec
+2021-01-12 14:58:57,691 - ME modelNone - DEBUG - Added constraint: FP_h2o_c_66.0_1
+2021-01-12 14:58:58,996 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 1.30 sec
+2021-01-12 14:58:59,022 - ME modelNone - DEBUG - Added constraint: FP_h2o_c_66.0_2
+2021-01-12 14:58:59,070 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:58:59,206 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.13 sec
+2021-01-12 14:58:59,207 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_3pg_c
+2021-01-12 14:58:59,388 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.18 sec
+2021-01-12 14:58:59,415 - ME modelNone - DEBUG - Added constraint: FP_3pg_c_66.0_1
+2021-01-12 14:58:59,756 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.34 sec
+2021-01-12 14:58:59,788 - ME modelNone - DEBUG - Added constraint: FP_3pg_c_66.0_2
+2021-01-12 14:58:59,862 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.06 sec
+2021-01-12 14:59:00,126 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.26 sec
+2021-01-12 14:59:00,127 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_oaa_c
+2021-01-12 14:59:00,429 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.30 sec
+2021-01-12 14:59:00,460 - ME modelNone - DEBUG - Added constraint: FP_oaa_c_65.0_1
+2021-01-12 14:59:00,767 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.31 sec
+2021-01-12 14:59:00,797 - ME modelNone - DEBUG - Added constraint: FP_oaa_c_65.0_2
+2021-01-12 14:59:00,857 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:59:01,020 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.15 sec
+2021-01-12 14:59:01,021 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_pep_c
+2021-01-12 14:59:01,313 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.29 sec
+2021-01-12 14:59:01,339 - ME modelNone - DEBUG - Added constraint: FP_pep_c_66.0_1
+2021-01-12 14:59:01,641 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.30 sec
+2021-01-12 14:59:01,674 - ME modelNone - DEBUG - Added constraint: FP_pep_c_66.0_2
+2021-01-12 14:59:01,741 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.05 sec
+2021-01-12 14:59:01,887 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.14 sec
+2021-01-12 14:59:01,888 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_pyr_c
+2021-01-12 14:59:02,024 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.14 sec
+2021-01-12 14:59:02,057 - ME modelNone - DEBUG - Added constraint: FP_pyr_c_69.0_1
+2021-01-12 14:59:02,340 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.28 sec
+2021-01-12 14:59:02,370 - ME modelNone - DEBUG - Added constraint: FP_pyr_c_69.0_2
+2021-01-12 14:59:02,444 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.05 sec
+2021-01-12 14:59:02,735 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.28 sec
+2021-01-12 14:59:02,737 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_r5p_c
+2021-01-12 14:59:03,013 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.28 sec
+2021-01-12 14:59:03,047 - ME modelNone - DEBUG - Added constraint: FP_r5p_c_63.0_1
+2021-01-12 14:59:04,093 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 1.04 sec
+2021-01-12 14:59:04,124 - ME modelNone - DEBUG - Added constraint: FP_r5p_c_63.0_2
+2021-01-12 14:59:04,184 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:59:04,418 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.23 sec
+2021-01-12 14:59:04,419 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_e4p_c
+2021-01-12 14:59:04,704 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.28 sec
+2021-01-12 14:59:04,732 - ME modelNone - DEBUG - Added constraint: FP_e4p_c_64.0_1
+2021-01-12 14:59:05,088 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.36 sec
+2021-01-12 14:59:05,120 - ME modelNone - DEBUG - Added constraint: FP_e4p_c_64.0_2
+2021-01-12 14:59:05,185 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.05 sec
+2021-01-12 14:59:05,455 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.26 sec
+2021-01-12 14:59:05,456 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_f6p_c
+2021-01-12 14:59:05,769 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.31 sec
+2021-01-12 14:59:05,802 - ME modelNone - DEBUG - Added constraint: FP_f6p_c_60.0_1
+2021-01-12 14:59:06,996 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 1.19 sec
+2021-01-12 14:59:07,027 - ME modelNone - DEBUG - Added constraint: FP_f6p_c_60.0_2
+2021-01-12 14:59:07,084 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:59:07,301 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.21 sec
+2021-01-12 14:59:07,302 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_g3p_c
+2021-01-12 14:59:07,522 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.22 sec
+2021-01-12 14:59:07,544 - ME modelNone - DEBUG - Added constraint: FP_g3p_c_60.0_1
+2021-01-12 14:59:07,897 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.35 sec
+2021-01-12 14:59:07,919 - ME modelNone - DEBUG - Added constraint: FP_g3p_c_60.0_2
+2021-01-12 14:59:07,972 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.04 sec
+2021-01-12 14:59:08,197 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.22 sec
+2021-01-12 14:59:08,198 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_g6p_c
+2021-01-12 14:59:08,467 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.27 sec
+2021-01-12 14:59:08,490 - ME modelNone - DEBUG - Added constraint: FP_g6p_c_60.0_1
+2021-01-12 14:59:09,525 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 1.04 sec
+2021-01-12 14:59:09,552 - ME modelNone - DEBUG - Added constraint: FP_g6p_c_60.0_2
+2021-01-12 14:59:09,604 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.03 sec
+2021-01-12 14:59:09,840 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.23 sec
+2021-01-12 14:59:09,841 - ME modelNone - DEBUG - Added constraint: FP_MAX_DEACT_succ_c
+2021-01-12 14:59:10,126 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 0.28 sec
+2021-01-12 14:59:10,159 - ME modelNone - DEBUG - Added constraint: FP_succ_c_60.0_1
+2021-01-12 14:59:12,211 - ME modelNone - DEBUG - 'slim_optimize' ((), {}) 2.05 sec
+2021-01-12 14:59:12,237 - ME modelNone - DEBUG - Added constraint: FP_succ_c_60.0_2
+2021-01-12 14:59:12,251 - ME modelNone - INFO - Enumeration is done. now save the result in pickle file
+2021-01-12 14:59:12,257 - ME modelNone - INFO - Enumerating minimal networks ...

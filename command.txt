@@ -1,0 +1,26 @@
+#Make sure you have the latest versions of setuptools and wheel installed:
+
+python -m pip install --user --upgrade setuptools wheel
+python setup.py sdist bdist_wheel
+
+## create project on test pypi
+https://test.pypi.org/project/mineapy/
+Username:vikash_om_test
+Password:om16042020
+
+
+# Now that you are registered, you can use twine to upload the distribution packages. You’ll need to install Twine:
+
+python -m pip install --user --upgrade twine
+#Once installed, run Twine to upload all of the archives under dist:
+
+
+
+
+
+python -m twine upload --repository testpypi dist/*
+
+## create token
+Token:
+username = __token__
+password = pypi-AgENdGVzdC5weXBpLm9yZwIkYWZiOTdlZWYtOTljYi00ZWQyLTk5NTMtZmQyNjdhMDk2YTY5AAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiDngQxjmRBp-Gg-20lExFnDRnMMIf7lrN3yvVVWWhP0Jg
