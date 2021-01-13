@@ -47,21 +47,21 @@ or from source
 
 .. code:: bash
 
-    git clone https://github.com/EPFL-LCSB/pytfa.git mineapy
+    git clone https://github.com/vpandey-om/mineapy.git mineapy
     pip3 install -e mineapy
 
-Quick start
-===========
+    Quick start
+    ===========
 
-Two tutorials files detail thoroughly normal usages of the mineapy
-package. They can be found at:
+    Three tutorial files detail thoroughly normal usages of the mineapy
+    package. They can be found at:
 
-::
+    ::
 
-mineapy
-└── tutorials
-    ├── e_coli_core.py
-    ├── e_coli_gem.py
+        mineapy
+        └── tutorials
+            ├── e_coli_core.py
+            └── e_coli_gem.py
 
 
 Usage
@@ -93,46 +93,49 @@ Python.
 Thermodynamic databases are stored in ``.thermodb`` files and can be
 easily loaded with ``pytfa.io.load_thermoDB``.
 
+
+
 Example script
 --------------
 
 Here is an example script :
 
 .. code:: python
-  ## import required modules
-  import mineapy
-  from cobra.io import load_matlab_model
-  import pandas as pd
-  from mineapy.core.taskEnrich import TaskEnrichment
-  from mineapy.core.thermo_model import ThermoModel_WithoutInfo
-  from mineapy.core.rxnExp import ReactionExp
-  ## load e_coli_core model
-  cobra_model= load_matlab_model('./models/e_coli_core.mat')
-  genes=[g.id for g in cobra_model.genes]
+    ## import required modules
+    import mineapy
+    from cobra.io import load_matlab_model
+    import pandas as pd
+    from mineapy.core.taskEnrich import TaskEnrichment
+    from mineapy.core.thermo_model import ThermoModel_WithoutInfo
+    from mineapy.core.rxnExp import ReactionExp
+    ## load e_coli_core model
+    cobra_model= load_matlab_model('./models/e_coli_core.mat')
+    genes=[g.id for g in cobra_model.genes]
+    ## Minea parameters
+    path_to_params = './input/task_enrichment_params.yaml'
 
-  ## Minea parameters
-  path_to_params = './input/task_enrichment_params.yaml'
+    ## add condition- or context-specific expression data
+    context_df=pd.read_csv('./input/context.txt',sep='\t')
+    condition_df=pd.read_csv('./input/condition.txt',sep='\t')
+    ## get genes that are regulated between different conditions
+    gene_reg={'gene_id':condition_df['geneid'].to_list(),'fold_change':condition_df['fold change'].to_list(),'up_cutoff':1.35,'down_cutoff':float(1/2.5)}
 
-  ## add condition- or context-specific expression data
-  context_df=pd.read_csv('./input/context.txt',sep='\t')
-  condition_df=pd.read_csv('./input/condition.txt',sep='\t')
-  ## get genes that are regulated between different conditions
-  gene_reg={'gene_id':condition_df['geneid'].to_list(),'fold_change':condition_df['fold change'].to_list(),'up_cutoff':1.35,'down_cutoff':float(1/2.5)}
+    reg_analysis=ReactionExp(cobra_model,gene_reg=gene_reg)
 
-  reg_analysis=ReactionExp(cobra_model,gene_reg=gene_reg)
+    ## set cut off for example 15 % top and 15 % bottom in ranking
+    gene_exp={'gene_id':context_df['geneid'].to_list(),'exp_val':context_df['exp_val'].to_list(),'high_cutoff':0.15,'low_cutoff':0.15}
 
-  ## set cut off for example 15 % top and 15 % bottom in ranking
-  gene_exp={'gene_id':context_df['geneid'].to_list(),'exp_val':context_df['exp_val'].to_list(),'high_cutoff':0.15,'low_cutoff':0.15}
-
-  exp_analysis=ReactionExp(cobra_model,gene_exp=gene_exp)
+    exp_analysis=ReactionExp(cobra_model,gene_exp=gene_exp)
 
 
-  params_rxns={'high_rxns':exp_analysis.high_rxns,'low_rxns':exp_analysis.low_rxns}
+    params_rxns={'high_rxns':exp_analysis.high_rxns,'low_rxns':exp_analysis.low_rxns}
 
-  ## Apply enrichment algorithms
-  task_enrich = TaskEnrichment(cobra_model,path_to_params,params_rxns)
+    ## Apply enrichment algorithms
+    task_enrich = TaskEnrichment(cobra_model,path_to_params,params_rxns)
 
-  task_enrich.run()
+    task_enrich.run()
+
+
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/pytfa.svg
    :target: https://pypi.org/project/pytfa/
