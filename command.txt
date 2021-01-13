@@ -5,7 +5,7 @@ python setup.py sdist bdist_wheel
 
 ## create project on test pypi
 https://test.pypi.org/project/mineapy/
-Username:vikash_om_test
+Username:obilab
 Password:om16042020
 
 
@@ -21,6 +21,6 @@ python -m pip install --user --upgrade twine
 python -m twine upload --repository testpypi dist/*
 
 ## create token
-Token:
-username = __token__
-password = pypi-AgENdGVzdC5weXBpLm9yZwIkYWZiOTdlZWYtOTljYi00ZWQyLTk5NTMtZmQyNjdhMDk2YTY5AAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiDngQxjmRBp-Gg-20lExFnDRnMMIf7lrN3yvVVWWhP0Jg
+[testpypi]
+  username = __token__
+  password = pypi-AgENdGVzdC5weXBpLm9yZwIkYzY5NDRkNjEtMjRmMi00MGE3LTkxZDgtMGUyYWI0YzhiODBiAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiCasshvaBIThnpTfOE1W8R_TXDgGti-3JFhrQhYOZwMDA

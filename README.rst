@@ -33,28 +33,22 @@ supported.
 Setup
 =====
 
-*This step is not required if you're using the container, which bundles all this.*
-
-You can install this module with ``pip``:
-
-*For Python 3, you might have to use* ``pip3`` *instead of* ``pip``
-
+Install `conda <https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html>`and create an environment using python 3.7.
 .. code:: bash
 
-    pip3 install mineapy
+    conda create -n py37 python=3.7
+    conda activate py37
 
-or from source
-
-.. code:: bash
-
+    # inside conda enviroment we can install
     git clone https://github.com/vpandey-om/mineapy.git mineapy
-    pip3 install -e mineapy
+    pip install -e .
 
-    Quick start
-    ===========
 
-    Three tutorial files detail thoroughly normal usages of the mineapy
-    package. They can be found at:
+
+Quick start
+===========
+Two tutorial files detail thoroughly normal usages of the mineapy
+package. They can be found at:
 
     ::
 
