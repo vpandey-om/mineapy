@@ -42,7 +42,8 @@ You will need to have install `conda <https://docs.conda.io/projects/conda/en/la
     conda activate py37
 
     # inside the py37 environment we can download from github and install.
-    git clone https://github.com/vpandey-om/mineapy.git mineapy
+    git clone https://github.com/vpandey-om/mineapy.git /path/to/mineapy
+    cd /path/to/mineapy
     pip install -e .
 
 
