@@ -129,7 +129,7 @@ Here is an example script :
 
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/pytfa.svg
-   :target: https://pypi.org/project/pytfa/
+   :target: https://pypi.org/project/mineapy/
 
 .. |license| image:: http://img.shields.io/badge/license-APACHE2-blue.svg
    :target: https://github.com/vpandey-om/mineapy/blob/main/LICENSE

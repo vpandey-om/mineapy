@@ -20,14 +20,14 @@ from setuptools import setup, find_packages
 #     return reqs
 
 
-version_tag = '1.0.3'
+version_tag = '0.0.1'
 
 setup(name='mineapy',
       version=version_tag,
       author='vikash pandey',
       author_email='vikash.pandey@umu.se',
       url='https://github.com/vpandey-om/mineapy/',
-      #download_url='https://github.com/EPFL-LCSB/pytfa/archive/'+version_tag+'.tar.gz',
+      download_url='https://github.com/vpandey-om/mineapy/archive/v'+version_tag+'-alpha.tar.gz',
       install_requires=['cobra>0.13',
                         'bokeh>=0.12.1',
                         'networkx',
@@ -39,7 +39,7 @@ setup(name='mineapy',
                         'statsmodels',
                         'sympy==1.6.1'],
       packages = find_packages(),
-      python_requires='>=3.5, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4',
+      python_requires='>=3.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4',
       description='mineapy, Minimum network enrichment analysis in Python',
       keywords=['mineapy','minea','thermodynamics','enrichment analysis'],
 

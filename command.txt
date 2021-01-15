@@ -24,3 +24,8 @@ python -m twine upload --repository testpypi dist/*
 [testpypi]
   username = __token__
   password = pypi-AgENdGVzdC5weXBpLm9yZwIkYzY5NDRkNjEtMjRmMi00MGE3LTkxZDgtMGUyYWI0YzhiODBiAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiCasshvaBIThnpTfOE1W8R_TXDgGti-3JFhrQhYOZwMDA
+
+
+  [pypi]
+    username = __token__
+    password = pypi-AgEIcHlwaS5vcmcCJDBhNGQyNDVkLTdlY2QtNDVlMS04MDMyLWZhMDI5M2I0NmZiZAACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgelLvCd1DY0M-ytei3VOEaCNB-3uV631TqVm3k4UhtU8
