@@ -38,6 +38,12 @@ You will need to install `conda <https://docs.conda.io/projects/conda/en/latest/
 
 .. code:: bash
 
+    pip install mineapy
+
+or from source
+
+.. code:: bash
+
     conda create -n py37 python=3.7
     conda activate py37
 
@@ -78,16 +84,6 @@ by setting the ``solver`` property of your model to the name of your
 solver. See the `COBRApy
 documentation <https://cobrapy.readthedocs.io/en/latest/solvers.html>`__
 for more information about this.
-
-Thermodynamic database
-----------------------
-
-You also need a thermodynamic database. Use ``thermoDBconverter.py`` if
-you have a thermodynamic database from Matlab you wish to import to
-Python.
-
-Thermodynamic databases are stored in ``.thermodb`` files and can be
-easily loaded with ``pytfa.io.load_thermoDB``.
 
 Example script
 --------------
