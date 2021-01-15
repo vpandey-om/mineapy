@@ -42,6 +42,7 @@ You will need to install `conda <https://docs.conda.io/projects/conda/en/latest/
     conda activate py37
 
 Using pip
+
 .. code:: bash
 
     pip install mineapy
