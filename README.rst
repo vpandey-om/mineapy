@@ -128,7 +128,7 @@ Here is an example script :
     task_enrich.run()
 
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/pytfa.svg
+.. |PyPI| image:: https://img.shields.io/pypi/v/mineapy.svg
    :target: https://pypi.org/project/mineapy/
 
 .. |license| image:: http://img.shields.io/badge/license-APACHE2-blue.svg
