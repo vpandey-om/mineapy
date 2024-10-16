@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mineapy
+Version: 0.0.1
+Summary: MiNEApy, Minimum network enrichment analysis in Python
+Home-page: https://github.com/vpandey-om/mineapy/
+Download-URL: https://github.com/vpandey-om/mineapy/archive/v0.0.1-alpha.tar.gz
+Author: Vikash Pandey
+Author-email: vikash.pandey@umu.se
+License: Apache 2.0
+Keywords: mineapy,minea,thermodynamics,enrichment analysis
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4
+Requires-Dist: cobra>=0.20.0
+Requires-Dist: bokeh>=2.2.3
+Requires-Dist: networkx>=2.5
+Requires-Dist: optlang>=1.4.4
+Requires-Dist: pytest>=4.6.11
+Requires-Dist: scipy>=1.6.3
+Requires-Dist: tqdm>=4.56.0
+Requires-Dist: pytfa>=0.9.3
+Requires-Dist: statsmodels>=0.12.1
+Requires-Dist: sympy==1.6.1

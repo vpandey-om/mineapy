@@ -1,0 +1,39 @@
+---
+biomass_rxns:
+    #- Biomass_Ecoli_core
+    #- Ec_biomass_iJO1366_WT_53p95M
+
+    - BIOMASS_Ecoli_core_w_GAM
+
+# Define minimal growth to reach. If auto, sets to 95% of max TFA oR FBA growth
+growth_rate: auto
+
+
+# Define Metabolic tasks. IF one want to find task for additional metabolites
+MTs: ['pyr_c', 'oaa_c','succ_c']
+
+MT_BBB: yes
+
+# Define the medium. Any other reaction will be kept as provided by the model
+medium:
+    #EX_glc__D_e: -10
+
+cofactor_pairs:
+    - ['atp_c', 'adp_c']
+    - ['nad_c', 'nadh_c']
+    - ['nadp_c', 'nadph_c']
+    - ['accoa_c', 'coa_c']
+
+# Reduction parameters
+lump_method: Min+30 #Min #Min+1 # OnePerBBB, Min, Min+p :
+max_lumps_per_BBB: 10 # Only used if method = Min or Min+p
+# remove_blocked_reactions: no  # Remove reactions that cannot carry flux
+#
+diverge_min: 1  # defult=1
+                # here is the publication where for diverge elementary flux mode is ised. Rezola A, Pey J, de Figueiredo LF, Podhorski A, Schuster S, Rubio A, Planes FJ. Selection of human tissue-specific elementary flux modes using gene expression data. Bioinformatics. 2013 Aug 15;29(16):2009-16. doi: 10.1093/bioinformatics/btt328. Epub 2013 Jun 6. PMID: 23742984.
+
+solver: auto
+force_solve: False
+timeout: 300
+feasibility: 1e-9
+constraint_method: both # flux, integer, or both

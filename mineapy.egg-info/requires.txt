@@ -1,0 +1,10 @@
+cobra==0.20.0
+bokeh==2.2.3
+networkx==2.5
+optlang==1.4.4
+pytest==4.6.11
+scipy==1.6.3
+tqdm==4.56.0
+pytfa==0.9.3
+statsmodels==0.12.1
+sympy==1.6.1

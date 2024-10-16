@@ -1,0 +1,39 @@
+---
+biomass_rxns:
+    #- Biomass_Ecoli_core
+    #- Ec_biomass_iJO1366_WT_53p95M
+
+    - biomass
+
+# Define minimal growth to reach. If auto, sets to 95% of max TFA oR FBA growth
+growth_rate: auto
+
+
+# Define Metabolic tasks. IF one want to find task for additional metabolites
+MTs: ['C00036_c']
+
+MT_BBB: yes
+
+# Define the medium. Any other reaction will be kept as provided by the model
+medium:
+    #EX_glc__D_e: -10
+
+cofactor_pairs:
+    - ['atp_c', 'adp_c']
+    - ['nad_c', 'nadh_c']
+    - ['nadp_c', 'nadph_c']
+    - ['accoa_c', 'coa_c']
+
+# Reduction parameters
+lump_method: Min+1 #Min #Min+1 # OnePerBBB, Min, Min+p
+max_lumps_per_BBB: 3 # Only used if method = Min or Min+p
+# remove_blocked_reactions: no  # Remove reactions that cannot carry flux
+#
+diverge_min: 2  # defult=1
+
+solver: auto
+force_solve: False
+sum_flux: True
+timeout: 1000
+feasibility: 1e-9
+constraint_method: both # flux, integer, or both
