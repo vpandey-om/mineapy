@@ -85,50 +85,24 @@ Add the environment to Jupyter as a kernel:
 python -m ipykernel install --user --name=py37 --display-name "Python 3.7 (py37)"
 
 ```
+# MiNEA Package Tutorials
 
-Two tutorial files detail the typical usage of the MiNEApy package. They can be found in the `tutorials` directory:
+I have created three tutorials to demonstrate how to use the MiNEA package. These tutorials are available in both Jupyter notebook (`.ipynb`) format and Python script (`.py`) format for ease of use. The tutorials guide users step-by-step through running MiNEA for different case studies.
 
-```
-mineapy
-└── tutorials
-    ├── e_coli_core.py
-    └── e_coli_gem.py
-```
+### Available Tutorials:
 
-Here’s a quick example:
+1. **_E. coli_ Core Metabolic Model:**
+   - Jupyter Notebook: `tutorial_1_e_coli_core.ipynb`
+   - Python Script: `tutorial_1_e_coli_core.py`
 
-```python
-import mineapy
-from cobra.io import load_matlab_model
-import pandas as pd
-from mineapy.core.taskEnrich import TaskEnrichment
-from mineapy.core.thermo_model import ThermoModel_WithoutInfo
-from mineapy.core.rxnExp import ReactionExp
+2. **_E. coli_ Genome-Scale Model (GEM):**
+   - Jupyter Notebook: `tutorial_2_ecoli_gem.ipynb`
+   - Python Script: `tutorial_2_ecoli_gem.py`
 
-# Load the e_coli_core model
-cobra_model = load_matlab_model('./models/e_coli_core.mat')
-genes = [g.id for g in cobra_model.genes]
+3. **_Plasmodium berghei_ Model:**
+   - Jupyter Notebook: `turorial_3_ipbe_blood_model.ipynb`
+   - Python Script: `turorial_3_ipbe_blood_model.py`
 
-# MiNEA parameters
-path_to_params = './input/task_enrichment_params.yaml'
-
-# Add condition- or context-specific expression data
-context_df = pd.read_csv('./input/context.txt', sep='\t')
-condition_df = pd.read_csv('./input/condition.txt', sep='\t')
-
-# Get genes regulated between different conditions
-gene_reg = {'gene_id': condition_df['geneid'].to_list(), 'fold_change': condition_df['fold change'].to_list(), 'up_cutoff': 1.35, 'down_cutoff': float(1/2.5)}
-reg_analysis = ReactionExp(cobra_model, gene_reg=gene_reg)
-
-# Set cutoff, e.g., 15% top and bottom in ranking
-gene_exp = {'gene_id': context_df['geneid'].to_list(), 'exp_val': context_df['exp_val'].to_list(), 'high_cutoff': 0.15, 'low_cutoff': 0.15}
-exp_analysis = ReactionExp(cobra_model, gene_exp=gene_exp)
-params_rxns = {'high_rxns': exp_analysis.high_rxns, 'low_rxns': exp_analysis.low_rxns}
-
-# Apply enrichment algorithms
-task_enrich = TaskEnrichment(cobra_model, path_to_params, params_rxns)
-task_enrich.run()
-```
 
 ## Usage
 
