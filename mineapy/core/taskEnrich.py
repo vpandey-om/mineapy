@@ -42,8 +42,6 @@ class TaskEnrichment():
         # This one is used to perform the lumping
         self._source_gem = prepared_gem.copy()
         ###
-
-
         ### test model id TFA or not
         if hasattr(self._source_gem , 'logger'):
             self.logger = self._gem.logger
@@ -111,7 +109,7 @@ class TaskEnrichment():
             solver = 'glpk'
         else:
             solver = self.params["solver"]
-
+        import pdb;pdb.set_trace()
         self._gem.solver = solver
         self._source_gem.solver = solver
 

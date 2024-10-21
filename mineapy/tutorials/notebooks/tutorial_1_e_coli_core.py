@@ -245,7 +245,7 @@ path_to_params = '../input/task_enrichment_params.yaml'
 
 task_enrich = TaskEnrichment(cobra_model,path_to_params,params_rxns)
 
-
+print('solver---',task_enrich._gem.solver.interface)
 
 task_enrich.run()
 

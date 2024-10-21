@@ -6,7 +6,7 @@ biomass_rxns:
     - Ec_biomass_iJO1366_WT_53p95M
 
 # Define minimal growth to reach. If auto, sets to 95% of max TFA oR FBA growth
-growth_rate: auto
+growth_rate: auto 
 
 
 # Define Metabolic tasks. IF one want to find task for additional metabolites
@@ -31,7 +31,13 @@ max_lumps_per_BBB: 5 # Only used if method = Min or Min+p
 #
 diverge_min: 2  # defult=1
 
-solver: auto
+solver: 'optlang-cplex'
+# auto 
+#CPLEX = 'optlang-cplex'
+#GUROBI = 'optlang-gurobi'
+#GLPK = 'optlang-glpk'
+
+
 force_solve: False
 sum_flux: True
 timeout: 1000
