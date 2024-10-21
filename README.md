@@ -18,7 +18,7 @@ git lfs install
 git lfs pull
 ```
 
-**This module was developed in Python 3.7, and it is recommended to run Python 3.7 to ensure compatibility with commercial solvers such as Gurobi and CPLEX.**
+**This module was developed using Python 3.7, and it is recommended to run Python 3.7 to ensure compatibility with commercial solvers such as Gurobi and CPLEX. The software has been tested with Gurobi and CPLEX version 12.10. Supported solvers include Gurobi and CPLEX_Studio 12.10. The software has also been tested with GLPK, but it tends to be significantly slower.**
 
 MiNEApy depends on several Python packages including:
 
@@ -26,7 +26,7 @@ MiNEApy depends on several Python packages including:
 - [pyTFA](https://github.com/EPFL-LCSB/pytfa/)
 - [optlang](https://github.com/biosustain/optlang/)
 
-The installation process should handle these dependencies for you. However, if you are using a dedicated solver, you may need to install it separately. Supported solvers include Gurobi and CPLEX.
+The installation process should handle these dependencies for you. However, if you are using a dedicated solver, you may need to install it separately.  
 
 ## Setup
 
@@ -87,7 +87,7 @@ python -m ipykernel install --user --name=py37 --display-name "Python 3.7 (py37)
 ```
 # MiNEA Package Tutorials
 
-I have created three tutorials to demonstrate how to use the MiNEA package. These tutorials are available in both Jupyter notebook (`.ipynb`) format and Python script (`.py`) format for ease of use. The tutorials guide users step-by-step through running MiNEA for different case studies.
+I have created three tutorials to demonstrate how to use the MiNEA package. These tutorials are available in both Jupyter notebook (`.ipynb`) format and Python script (`.py`) format for ease of use (see under notebooks folder). The tutorials guide users step-by-step through running MiNEA for different case studies.
 
 ### Available Tutorials:
 
