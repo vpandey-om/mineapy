@@ -32,7 +32,7 @@ max_lumps_per_BBB: 10 # Only used if method = Min or Min+p
 diverge_min: 1  # defult=1
                 # here is the publication where for diverge elementary flux mode is ised. Rezola A, Pey J, de Figueiredo LF, Podhorski A, Schuster S, Rubio A, Planes FJ. Selection of human tissue-specific elementary flux modes using gene expression data. Bioinformatics. 2013 Aug 15;29(16):2009-16. doi: 10.1093/bioinformatics/btt328. Epub 2013 Jun 6. PMID: 23742984.
 
-solver: 'optlang-cplex'
+solver: 'optlang-gurobi'
 # auto 
 #CPLEX = 'optlang-cplex'
 #GUROBI = 'optlang-gurobi'

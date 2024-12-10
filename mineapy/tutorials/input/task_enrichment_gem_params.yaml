@@ -31,7 +31,7 @@ max_lumps_per_BBB: 5 # Only used if method = Min or Min+p
 #
 diverge_min: 2  # defult=1
 
-solver: 'optlang-cplex'
+solver: 'optlang-gurobi'
 # auto 
 #CPLEX = 'optlang-cplex'
 #GUROBI = 'optlang-gurobi'

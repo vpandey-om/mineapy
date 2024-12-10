@@ -31,7 +31,11 @@ max_lumps_per_BBB: 3 # Only used if method = Min or Min+p
 #
 diverge_min: 2  # defult=1
 
-solver: auto
+solver: 'optlang-gurobi'
+# auto 
+#CPLEX = 'optlang-cplex'
+#GUROBI = 'optlang-gurobi'
+#GLPK = 'optlang-glpk'
 force_solve: False
 sum_flux: True
 timeout: 1000
