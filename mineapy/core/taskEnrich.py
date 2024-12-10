@@ -109,7 +109,6 @@ class TaskEnrichment():
             solver = 'glpk'
         else:
             solver = self.params["solver"]
-        import pdb;pdb.set_trace()
         self._gem.solver = solver
         self._source_gem.solver = solver
 
